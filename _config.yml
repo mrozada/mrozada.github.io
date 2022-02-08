@@ -5,7 +5,7 @@
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
 #
-# For technical reasons, this file is *NOT* reloaded automatically when you use
+# For tchnical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
@@ -14,8 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Martin's Personal Website
+url: https://www.utdt.edu/profesores/mrozada
 email: mrozada@utdt.edu
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore next line
+      Martin's personal website
 twitter_username: MartinGRozada
 github_username: mrozada
 minimal_mistakes_skin: default
