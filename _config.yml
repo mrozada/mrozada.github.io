@@ -117,4 +117,3 @@ tag_archive:
   type: liquid
   path: /tags/
 
-exclude: ['*.Rmd']
