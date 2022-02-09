@@ -3,7 +3,7 @@ permalink: /
 title: "Bienvenido"
 author_profile: true
 classes: wide
-header: 
+header:
   image:/assets/images/header-git3.jpg
 ---
 
