@@ -14,7 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Martin's Personal Website
-url: https://www.utdt.edu/profesores/mrozada
 email: mrozada@utdt.edu
 description: >- # this means to ignore next line
       Martin's personal website
@@ -58,7 +57,7 @@ plugins:
 
 author:
   name   : "Martin Rozada"
-  avatar : "/assets/images/_143586755845910000.jpg"
+  avatar : "/assets/images/bio-photoGit.jpg"
   bio    : Profesor de Econometria en el Departamento de Economia de la Universidad Torcuato Di Tella.
   links:
     - label: "Website"
