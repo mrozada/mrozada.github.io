@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Soy profesor titular del Departamento de Economía de la Universidad Torcuato Di Tella (UTDT). Dirijo la Maestría en Econometría y soy investigador del Centro de Investigación en Finanzas (CIF), UTDT. Me dedico a la econometría con énfasis en temas relacionados con el mercado laboral, la economía del tabaco y con la evaluación de impacto de programas y políticas públicas. Aunque mi trabajo es básicamente empírico me interesan los componentes teóricos de la econométría. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Además del trabajo puramente académico desarrollo actividades de consultoría con el Banco Mundial, el Banco Interamericano de Desarrollo y la Organización Panamericana de la Salud. Soy colaborador externo de [Tobacconomics](https://tobacconomics.org/about-us/who-we-are/) y editor del blog [FocoEconomico](https://focoeconomico.org/).
