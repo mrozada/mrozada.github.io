@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: /
   - title: "CV"
-    url: /categories/
+    url: https://github.com/mrozada/mrozada.github.io/tree/master/vita/mgr-cv-Sep2021.pdf
   - title: "Blog"
     url: /tags/
   - title: "Bio"
