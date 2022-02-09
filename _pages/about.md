@@ -1,6 +1,8 @@
 ---
 permalink: /about/
 title: "Nota Biográfica"
+header:
+
 image: /assets/images/header-git4.jpg
 ---
 
