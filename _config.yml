@@ -76,9 +76,6 @@ author:
     - label: "ORCID"
       icon: "ai ai-orcid"
       url: "http://orcid.org/0000-0001-7460-7882"    
-      - label: "ResearchGate"
-      icon: "fab fa-fw fa-researchgate"
-      url: "https://www.researchgate.net/profile/Martin-Rozada"
 
 footer:
   links:
