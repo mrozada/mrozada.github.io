@@ -96,6 +96,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      
+      exclude: ['*.Rmd']
       read_time: true
       comments: true
       share: true
