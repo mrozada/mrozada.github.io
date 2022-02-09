@@ -115,5 +115,5 @@ category_archive:
   path: /categories/
 tag_archive:
   type: liquid
-  path: /tags/
+  path: /blog/tag-archive/
 
