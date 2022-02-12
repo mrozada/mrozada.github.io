@@ -75,6 +75,15 @@ author:
     - label: "ORCID"
       icon: "ai ai-orcid"
       url: "http://orcid.org/0000-0001-7460-7882"    
+    - label: "Ideas-Repec"
+      icon: "ai ai-ideas-repec"
+      url: "https://ideas.repec.org/f/pgo321.html"    
+    - label: "ResearchGate"
+      icon: "ai ai-researchgate"
+      url: "https://www.researchgate.net/profile/Martin-Rozada"    
+    - label: "Academia"
+      icon: "ai ai-academia"
+      url: "https://utdt.academia.edu/MartinGonzalezRozada"    
 
 footer:
   links:
