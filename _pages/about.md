@@ -2,7 +2,6 @@
 permalink: /about/
 title: "INDICE DE PRECIOS AL CONSUMIDOR SIN ESTACIONALIDAD (IPCse)"
 author: "Martin Gonzalez-Rozada"
-output: rmdformats::downcute
 header:
   image: /assets/images/header-git4.jpg
 ---
