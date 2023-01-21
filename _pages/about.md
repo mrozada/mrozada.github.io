@@ -21,9 +21,7 @@ La estacionalidad contribuyó a que el índice oficial de la división de prenda
 
 **En la comparación interanual, diciembre de 2022 contra diciembre de 2021 antes del ajuste estacional, más del 50 por ciento del aumento de 94.8 por ciento está explicado por los índices de precios de tres de las divisiones de la canasta: alimentos y bebidas no alcohólicas, prendas de vestir y calzado y transporte.** Salud con una incidencia interanual de 8 puntos porcentuales y restaurantes y hoteles con una contribución de casi 7 puntos porcentuales son las divisiones que le siguen en explicación del aumento interanual del nivel general de precios (Cuadro 2).<br> 
 
-**En diciembre, la inflación subyacente, definida como el cambio porcentual en el nivel general del IPCse menos el efecto de los índices de precios de las divisiones de la canasta que incluyen bienes y servicios regulados o con alto componente impositivo, fue de 5.4 por ciento después de haber aumentado un 5 por ciento en noviembre.**  El valor de diciembre fue impulsado por la región del GBA. En términos interanuales, antes del ajuste estacional, la inflación subyacente en las regiones de GBA y patagónica superaron el 100 por ciento (Cuadro 1).
-
----
+**En diciembre, la inflación subyacente, definida como el cambio porcentual en el nivel general del IPCse menos el efecto de los índices de precios de las divisiones de la canasta que incluyen bienes y servicios regulados o con alto componente impositivo, fue de 5.4 por ciento después de haber aumentado un 5 por ciento en noviembre.**  El valor de diciembre fue impulsado por la región del GBA. En términos interanuales, antes del ajuste estacional, la inflación subyacente en las regiones de GBA y patagónica superaron el 100 por ciento (Cuadro 1).<br><br>
 
 ## NOTA TECNICA
 
