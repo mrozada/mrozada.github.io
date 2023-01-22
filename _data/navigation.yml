@@ -3,7 +3,5 @@ main:
     url: /
   - title: "Research"
     url: /research/
-  - title: "Blog"
-    url: /blog/
   - title: "IPCse"
     url: /about/
