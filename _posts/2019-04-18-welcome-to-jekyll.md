@@ -8,4 +8,4 @@ tags:
   - update
 ---
 
-Foco Económico es un blog Latinoamericano de política y economía.
+[Foco Económico] (https://dev.focoeconomico.org/) es un blog Latinoamericano de política y economía escrito en español.
