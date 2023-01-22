@@ -5,14 +5,14 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-## RESULTADOS
+## RESULTADOS DICIEMBRE 2022
 
 **El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 5.4 por ciento en diciembre, luego de haber aumentado también un 5.4 por ciento en noviembre.**<br>
 
 En diciembre los factores estacionales ayudaron a que la medición oficial de la inflación fuera 0.3 puntos porcentuales menor que sin estacionalidad. Durante los últimos 12 meses, el índice aumentó un 94.8 por ciento antes del ajuste estacional (datos oficiales de INDEC).<br>  
 Durante diciembre, en las seis regiones del país la estacionalidad hizo que la medición oficial fuera de entre 0.2 y 0.4 puntos porcentuales menor al índice sin estacionalidad.<br>
 
-**Los índices de precios de bebidas alcohólicas y tabaco y de restaurantes y hoteles fueron, con diferencia, los que más aumentaron en el mes.** En un segundo escalón estuvieron los incrementos en equipamiento y mantenimiento del hogar y educación. Los índices de precios de alimentos y bebidas no alcohólicas; vivienda, agua, electricidad, gas y otros combustibles; comunicación y recreación y cultura aumentaros por debajo del nivel general desestacionalizado.<br>
+**Los índices de precios de bebidas alcohólicas y tabaco y de restaurantes y hoteles fueron, con diferencia, los que más aumentaron en el mes.** En un segundo escalón estuvieron los incrementos en equipamiento y mantenimiento del hogar y educación. Los índices de precios de alimentos y bebidas no alcohólicas; vivienda, agua, electricidad, gas y otros combustibles; comunicación; y recreación y cultura aumentaron por debajo del nivel general desestacionalizado.<br>
 
 La estacionalidad contribuyó a que el índice oficial de la división de prendas de vestir y calzado fuera 1.1 puntos porcentuales menor a lo que hubiera dado la inflación del mismo índice ajustado por estacionalidad. En el caso del índice de precios de la división de educación la estacionalidad también hizo que el valor oficial fuera menor, 2.5 puntos porcentuales, a la inflación que se hubiera producido sin estacionalidad. El impacto estacional tuvo el efecto contrario en el índice de precios de la división de comunicación donde el valor oficial fue 0.7 puntos porcentuales más alto de lo que hubiera sido sin estacionalidad. En términos interanuales, antes del ajuste estacional, los índices de precios de la división de prendas de vestir y calzado y restaurantes y hoteles se incrementaron más del 100 por ciento (Cuadro 1).<br>
 
