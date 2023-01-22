@@ -1,6 +1,6 @@
 ---
-title: "Bienvenido"
-date: 2019-04-18T15:34:30-04:00
+title: "Foco Económico"
+#date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
 tags:
@@ -8,4 +8,4 @@ tags:
   - update
 ---
 
-Esta es mi página web personal.
+Foco Económico es un blog Latinoamericano de política y economía.
