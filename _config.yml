@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Martin Rozada"
   avatar : "/assets/images/bio-photoGit.jpg"
-  bio    : Profesor de Econometria en el Departamento de Economia de la Universidad Torcuato Di Tella.
+  bio    : Director de la Maestría en Econometria del Departamento de Economia de la Universidad Torcuato Di Tella.
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
