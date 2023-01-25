@@ -5,10 +5,6 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-yearactual <- 2022
-
-```
-
 ## RESULTADOS DICIEMBRE 2022
 
 **El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 5.4 por ciento en diciembre, luego de haber aumentado también un 5.4 por ciento en noviembre.**<br>
