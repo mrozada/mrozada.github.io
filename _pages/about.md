@@ -20,5 +20,5 @@ Durante diciembre, salvo en la región noreste, en las cinco regiones restantes 
 ***Para descargar el archivo de Excel con las series históricas y los cuadros del informe, haga click [aquí](https://github.com/mrozada/mrozada.github.io/raw/master/assets/excel/IPCse%20-%20Series%20hist%C3%B3ricas.xlsx).***
 
 
-<img src="https://github.com/mrozada/mrozada.github.io/blob/master/assets/images/LinePlotStatic.png" width="800" />
+<img src="https://github.com/mrozada/mrozada.github.io/blob/master/assets/images/LinePlotStatic.png" width="600" />
 
