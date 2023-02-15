@@ -19,10 +19,10 @@ Durante enero, en las seis regiones, la estacionalidad hizo que la medición ofi
 ***Para descargar el archivo de Excel con las series históricas y los cuadros del informe, haga click [aquí](https://github.com/mrozada/mrozada.github.io/raw/master/assets/excel/IPCse%20-%20Series%20hist%C3%B3ricas.xlsx).***
 
 
-![Serie de tiempo IPCse e INDEC](/assets/images/LinePlotStatic.png).
+![Serie de tiempo IPCse e INDEC](/assets/images/LinePlotStatic.png)
 
 <br>
 
-**Links a informes anteriores**
+***Links a informes anteriores***
 
 [Diciembre 2022](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202022-12%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
