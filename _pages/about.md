@@ -5,7 +5,7 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-## RESULTADOS DICIEMBRE 2022
+## RESULTADOS ENERO 2023
 
 **El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 6.4 por ciento en enero, luego de haber aumentado un 5.4 por ciento en diciembre.**
 
@@ -18,6 +18,7 @@ Durante enero, en las seis regiones, la estacionalidad hizo que la medición ofi
 
 ***Para descargar el archivo de Excel con las series históricas y los cuadros del informe, haga click [aquí](https://github.com/mrozada/mrozada.github.io/raw/master/assets/excel/IPCse%20-%20Series%20hist%C3%B3ricas.xlsx).***
 
+<br>
 
 ![Serie de tiempo IPCse e INDEC](/assets/images/LinePlotStatic.png)
 
