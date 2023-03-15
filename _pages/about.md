@@ -19,11 +19,9 @@ En febrero, la tasa de inflación mensual que enfrentaron los hogares de menores
 
 ***Para descargar el archivo de Excel con las series históricas y los cuadros del informe, haga click [aquí](https://github.com/mrozada/mrozada.github.io/raw/master/assets/excel/IPCse%20-%20Series%20hist%C3%B3ricas.xlsx).***
 
-<br>
 
 ![Serie de tiempo IPCse e INDEC](/assets/images/LinePlotStatic.png)
 
-<br>
 
 ***Links a informes anteriores***
 
