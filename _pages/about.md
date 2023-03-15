@@ -13,6 +13,7 @@ El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó
 
 En febrero los factores estacionales ayudaron a que la medición oficial de la inflación fuera 0.3 puntos porcentuales menor que sin estacionalidad. Durante los últimos 12 meses, el índice aumentó un 102.5 por ciento antes del ajuste estacional (Figura 1 del informe).<br>
 
+En febrero, la tasa de inflación mensual que enfrentaron los hogares de menores ingresos fue de 7.4 por ciento mientras que para los hogares del 20 por ciento de mayores ingresos la inflación fue de 6.6 por ciento. Comparando contra el mismo mes del año anterior fue de 103.4 por ciento para el 20 por ciento con menores ingresos y de 102.3 por ciento para el quintil de mayores ingresos (Cuadro 3 del informe). <br>
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/IPCse/).***
 
