@@ -5,7 +5,7 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-## RESULTADOS ABRIL 2023
+## RESULTADOS MAYO 2023
 
 **El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 8.2 por ciento en mayo, luego de haber aumentado un 8.3 por ciento en abril.**
 
