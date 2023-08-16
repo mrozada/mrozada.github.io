@@ -5,13 +5,14 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-## RESULTADOS JUNIO 2023
+## RESULTADOS JULIO 2023
 
-**El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 6.1 por ciento en junio, luego de haber aumentado un 8.2 por ciento en mayo.**
+**El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 6.5 por ciento en julio, luego de haber aumentado un 6.1 por ciento en junio.**
 
-En junio los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.1 puntos porcentuales menor que sin estacionalidad, 6.0 por ciento versus 6.1 por ciento. Esta diferencia de 0.1 puntos porcentuales en la inflación sin estacionalidad de junio se explica fundamentalmente por el comportamiento de la división de Educación donde los factores estacionales hicieron que la medición oficial fuera 2.6 puntos porcentuales más baja (6.6 por ciento versus 9.2) (Figura 2 del informe). Durante los últimos 12 meses, el índice aumentó un 115.6 por ciento antes del ajuste estacional (datos oficiales de INDEC).<br>
+En julio los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.2 puntos porcentuales menor que sin estacionalidad, 6.3 por ciento versus 6.5 por ciento. Esta diferencia de 0.2 puntos porcentuales en la inflación sin estacionalidad de julio se explica fundamentalmente por el comportamiento de las divisiónes de Alimentos y bebidas no alcohólicas, Bebidas alcohólicas y tabaco y Prendas de vestir y calzado, donde los factores estacionales hicieron que la medición oficial fuera entre 0.5 y 0.8 puntos porcentuales más baja (Figura 2 del informe). Durante los últimos 12 meses, el índice aumentó un 113.4 por ciento antes del ajuste estacional (datos oficiales de INDEC).<br>
 
-En junio, la tasa de inflación mensual que enfrentaron los hogares de menores ingresos fue de 6.0 por ciento mientras que para los hogares del 20 por ciento de mayores ingresos la inflación fue de 6.4 por ciento. Comparando contra el mismo mes del año anterior fue de 115.7 por ciento para el 20 por ciento con menores y mayores ingresos (Cuadro 3 del informe). <br>
+En julio, la tasa de inflación mensual que enfrentaron los hogares de menores ingresos fue de 6.4 por ciento mientras que para los hogares del 20 por ciento de mayores ingresos la inflación fue de 6.6 por ciento. Comparando contra el mismo mes del año anterior fue de 113.6 por ciento para el 20 por ciento con menores y ingresos y de 113.4 por ciento para los hogares de mayores ingresos (Cuadro 3 del informe).
+ <br>
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/IPCse/).***
 
@@ -21,7 +22,11 @@ En junio, la tasa de inflación mensual que enfrentaron los hogares de menores i
 ![Serie de tiempo IPCse e INDEC](/assets/images/LinePlotStatic.png)
 
 
-***Links a informes anteriores***
+***Links a informes en PDF***
+
+[Julio 2023](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202023-07%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
+
+[Junio 2023](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202023-06%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
 [Mayo 2023](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202023-05%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
