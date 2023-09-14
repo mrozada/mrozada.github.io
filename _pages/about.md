@@ -11,7 +11,7 @@ header:
 
 En agosto los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.2 puntos porcentuales mayor que sin estacionalidad, 12.4 por ciento versus 12.2 por ciento. Esta diferencia de 0.2 puntos porcentuales en la inflación sin estacionalidad de agosto se explica fundamentalmente por el comportamiento de las divisiónes de Alimentos y bebidas no alcohólicas, Prendas de vestir y calzado y Recreación y cultura, donde los factores estacionales hicieron que la medición oficial fuera entre 0.2 y 0.6 puntos porcentuales más alta (Figura 2 del informe). Durante los últimos 12 meses, el índice aumentó un 124.4 por ciento antes del ajuste estacional (datos oficiales de INDEC).<br>
 
-En agosto, la tasa de inflación mensual que enfrentaron los hogares de menores ingresos fue de 6.4 por ciento mientras que para los hogares del 20 por ciento de mayores ingresos la inflación fue de 6.6 por ciento. Comparando contra el mismo mes del año anterior fue de 113.6 por ciento para el 20 por ciento con menores y ingresos y de 113.4 por ciento para los hogares de mayores ingresos (Cuadro 3 del informe).<br>
+En agosto, la tasa de inflación mensual que enfrentaron los hogares de menores ingresos fue de 6.4 por ciento mientras que para los hogares del 20 por ciento de mayores ingresos la inflación fue de 6.6 por ciento. Comparando contra el mismo mes del año anterior fue de 113.6 por ciento para el 20 por ciento con menores y ingresos y de 113.4 por ciento para los hogares de mayores ingresos (Cuadro 3 del informe). <br>
 
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/IPCse/).***
