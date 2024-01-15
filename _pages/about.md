@@ -5,14 +5,14 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-## RESULTADOS NOVIEMBRE 2023
+## RESULTADOS DICIEMBRE 2023
 
-**El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 13.4 por ciento en noviembre, luego de haber aumentado un 8 por ciento en octubre.**
+**El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 25.7 por ciento en diciembre, luego de haber aumentado un 13.4 por ciento en noviembre.**
 
-En noviembre los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.6 puntos porcentuales menor que sin estacionalidad, 12.8 por ciento versus 13.4 por ciento. Esta diferencia de 0.6 puntos porcentuales en la inflación con estacionalidad de noviembre se explica fundamentalmente por el comportamiento de las divisiónes de Alimentos y bebidas no alcohólicas, Prendas de vestir y calzado y Educación, donde los factores estacionales hicieron que la medición oficial fuera entre 1 y 2.3 puntos porcentuales más baja (Figura 2). Durante los últimos 12 meses, el índice aumentó un 160.9 por ciento antes del ajuste estacional (datos oficiales de INDEC).
+En diciembre los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.2 puntos porcentuales menor que sin estacionalidad, 25.5 por ciento versus 25.7 por ciento. Esta diferencia de 0.2 puntos porcentuales en la inflación con estacionalidad de diciembre se explica fundamentalmente por el comportamiento de las divisiones de Prendas de vestir y calzado y Educación, donde los factores estacionales hicieron que la medición oficial fuera entre 1.3 y 2.5 puntos porcentuales más baja (Figura 2 del informe). Durante los últimos 12 meses, el índice aumentó un 211.4 por ciento antes del ajuste estacional (datos oficiales de INDEC).
 <br>
 
-En noviembre, la tasa de inflación mensual que enfrentaron los hogares de menores ingresos fue de 13.6 por ciento mientras que para los hogares del 20 por ciento de mayores ingresos la inflación fue de 13.1 por ciento. Comparando contra el mismo mes del año anterior fue de 163.6 por ciento para el 20 por ciento con menores y ingresos y de 159.9 por ciento para los hogares de mayores ingresos (Cuadro 3). <br>
+En diciembre, la tasa de inflación mensual que enfrentaron los hogares de menores ingresos fue de 26.1 por ciento mientras que para los hogares del 20 por ciento de mayores ingresos la inflación fue de 25.4 por ciento. Comparando contra el mismo mes del año anterior fue de 216.4 por ciento para el 20 por ciento con menores y ingresos y de 208.9 por ciento para los hogares de mayores ingresos (Cuadro 3 del informe). <br>
 
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/IPCse/).***
@@ -24,6 +24,8 @@ En noviembre, la tasa de inflación mensual que enfrentaron los hogares de menor
 
 
 ***Links a informes en PDF***
+
+[Diciembre 2023](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202023-12%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
 [Noviembre 2023](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202023-11%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
