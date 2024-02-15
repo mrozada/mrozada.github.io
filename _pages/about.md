@@ -25,7 +25,7 @@ En enero, la tasa de inflación mensual que enfrentaron los hogares de menores i
 
 ***Links a informes en PDF***
 
-[Diciembre 2024](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202024-01%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
+[Enero 2024](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202024-01%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
 [Diciembre 2023](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202023-12%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
