@@ -5,7 +5,7 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-## RESULTADOS Febrero 2024
+## RESULTADOS FEBRERO 2024
 
 **El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 13.4 por ciento en febrero, luego de haber aumentado un 20.7 por ciento en enero.**
 
