@@ -5,14 +5,14 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-## RESULTADOS ENERO 2024
+## RESULTADOS Febrero 2024
 
-**El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 20.9 por ciento en enero, luego de haber aumentado un 26 por ciento en diciembre.**
+**El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 13.4 por ciento en febrero, luego de haber aumentado un 20.7 por ciento en enero.**
 
-En enero los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.3 puntos porcentuales menor que sin estacionalidad, 20.6 por ciento versus 20.9 por ciento. Esta diferencia de 0.3 puntos porcentuales en la inflación con estacionalidad de enero se explica fundamentalmente por el comportamiento de las divisiones de Prendas de vestir y calzado y Educación, donde los factores estacionales hicieron que la medición oficial fuera entre 2.5 y 2.9 puntos porcentuales más baja (Figura 2 del informe). Durante los últimos 12 meses, el índice aumentó un 254.2 por ciento antes del ajuste estacional (datos oficiales de INDEC).
+En febrero los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.2 puntos porcentuales menor que sin estacionalidad, 13.2 por ciento versus 13.4 por ciento. Esta diferencia de 0.2 puntos porcentuales en la inflación con estacionalidad de febrero se explica fundamentalmente por el comportamiento de las divisiones de Prendas de vestir y calzado y Educación, donde los factores estacionales hicieron que la medición oficial fuera entre 1.3 y 2.3 puntos porcentuales más baja (Figura 2 del informe). Durante los últimos 12 meses, el índice aumentó un 276.2 por ciento antes del ajuste estacional (datos oficiales de INDEC).
 <br>
 
-En enero, la tasa de inflación mensual que enfrentaron los hogares de menores ingresos fue de 20.7 por ciento mientras que para los hogares del 20 por ciento de mayores ingresos la inflación fue de 21.2 por ciento. Comparando contra el mismo mes del año anterior fue de 259.0 por ciento para el 20 por ciento con menores y ingresos y de 252.6 por ciento para los hogares de mayores ingresos (Cuadro 3 del informe). <br>
+En febrero, la tasa de inflación mensual que enfrentaron los hogares de menores ingresos fue de 12.5 por ciento mientras que para los hogares del 20 por ciento de mayores ingresos la inflación fue de 13.7 por ciento. Comparando contra el mismo mes del año anterior fue de 275.9 por ciento para el 20 por ciento con menores y ingresos y de 275.6 por ciento para los hogares de mayores ingresos (Cuadro 3). <br>
 
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/IPCse/).***
@@ -24,6 +24,8 @@ En enero, la tasa de inflación mensual que enfrentaron los hogares de menores i
 
 
 ***Links a informes en PDF***
+
+[Febrero 2024](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202024-02%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
 [Enero 2024](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202024-01%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
