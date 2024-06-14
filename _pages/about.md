@@ -5,14 +5,14 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-## RESULTADOS ABRIL 2024
+## RESULTADOS MAYO 2024
 
-**El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 8.7 por ciento en abril, luego de haber aumentado un 10.2 por ciento en marzo.**
+**El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 4.6 por ciento en mayo, luego de haber aumentado un 8.7 por ciento en abril.**
 
-En abril los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.1 puntos porcentuales mayor que sin estacionalidad, 8.8 por ciento versus 8.7 por ciento. Esta diferencia de 0.1 puntos porcentuales en la inflación con estacionalidad de abril se explica fundamentalmente por el comportamiento de las divisiones de Prendas de vestir y calzado y Vivienda, agua, electricidad, gas y otros combustibles, donde los factores estacionales hicieron que la medición oficial fuera 2.3 puntos porcentuales más alta para la primera y 0.2 puntos más alta para la segunda (Figura 2 del informe). Durante los últimos 12 meses, el índice aumentó un 289.4 por ciento antes del ajuste estacional (datos oficiales de INDEC).
+En mayo los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.4 puntos porcentuales menor que sin estacionalidad, 4.2 por ciento versus 4.6 por ciento. Esta diferencia de 0.4 puntos porcentuales en la inflación con estacionalidad de mayo se explica fundamentalmente por el comportamiento de las divisiones de Educación, Prendas de vestir y calzado y Alimentos y bebidas no alcohólicas, donde los factores estacionales hicieron que la medición oficial fuera entre 0.9 y 1 punto porcentuales más baja (Figura 2 del informe). Durante los últimos 12 meses, el índice aumentó un 276.4 por ciento antes del ajuste estacional (datos oficiales de INDEC).
 <br>
 
-En abril, la tasa de inflación mensual que enfrentaron los hogares de menores ingresos fue de 8.4 por ciento mientras que para los hogares del 20 por ciento de mayores ingresos la inflación fue de 9.0 por ciento. Comparando contra el mismo mes del año anterior fue de 285.5 por ciento para el 20 por ciento con menores y ingresos y de 291.9 por ciento para los hogares de mayores ingresos (Cuadro 3 del informe). <br>
+En mayo, la tasa de inflación mensual que enfrentaron los hogares de menores ingresos fue de 4.75 por ciento mientras que para los hogares del 20 por ciento de mayores ingresos la inflación fue de 4.44 por ciento. Comparando contra el mismo mes del año anterior fue de 274.06 por ciento para el 20 por ciento con menores y ingresos y de 277.64 por ciento para los hogares de mayores ingresos (Cuadro 3 del informe).<br>
 
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/IPCse/).***
@@ -24,6 +24,8 @@ En abril, la tasa de inflación mensual que enfrentaron los hogares de menores i
 
 
 ***Links a informes en PDF***
+
+[Mayo 2024](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202024-05%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
 [Abril 2024](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202024-04%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
