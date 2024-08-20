@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "EVOLUCIÓN DE LA POBREZA Y LA DESIGUALDAD"
+permalink: /pobreza/
+title: "EVOLUCION DE LA POBREZA Y LA DESIGUALDAD"
 header:
   image: /assets/images/header-git4.jpg
 ---

@@ -5,7 +5,22 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-## RESULTADOS JUNIO 2024
+## INFORMES
+
+
+### INDICE DE PRECIOS AL CONSUMIDOR SIN ESTACIONALIDAD (IPCse)
+
+Para acceder al informe, haga click [aquí](https://mrozada.github.io/ipcse/)) <br>
+
+### EVOLUCION DE LA POBREZA Y LA DESIGUALDAD
+
+Para acceder al informe, haga click [aquí](https://mrozada.github.io/pobreza/)) <br>
+
+### BRECHAS DE INFLACION
+
+Para acceder al informe, haga click [aquí](https://mrozada.github.io/inflacion/)) <br>
+
+
 
 **El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 4.8 por ciento en junio, luego de haber aumentado un 4.6 por ciento en mayo.**
 

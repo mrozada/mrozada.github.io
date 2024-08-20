@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /ipcse/
 title: "INDICE DE PRECIOS AL CONSUMIDOR SIN ESTACIONALIDAD (IPCse)"
 header:
   image: /assets/images/header-git4.jpg

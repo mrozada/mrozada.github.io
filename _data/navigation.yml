@@ -9,4 +9,5 @@ main:
     url: /pobreza/
   - title: "Inflación"
     url: /inflacion/
-
+  - title: "Informes"
+    url: /about/

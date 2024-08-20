@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /inflacion/
 title: "BRECHAS DE INFLACION"
 header:
   image: /assets/images/header-git4.jpg
