@@ -4,4 +4,9 @@ main:
   - title: "Research"
     url: /research/
   - title: "IPCse"
-    url: /about/
+    url: /ipcse/
+  - title: "Pobreza"
+    url: /pobreza/
+  - title: "Inflación"
+    url: /inflacion/
+
