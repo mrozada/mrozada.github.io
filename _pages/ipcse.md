@@ -5,14 +5,13 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-## RESULTADOS JULIO 2024
+## RESULTADOS AGOSTO 2024
 
-**El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 4.2 por ciento en julio, luego de haber aumentado un 4.8 por ciento en junio.**
+**El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 4.0 por ciento en agosto, luego de haber aumentado un 4.2 por ciento en julio.**
 
-En julio los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.2 puntos porcentuales menor que sin estacionalidad, 4.0 por ciento versus 4.2 por ciento. Esta diferencia de 0.2 puntos porcentuales en la inflación con estacionalidad de julio se explica fundamentalmente por el comportamiento de las divisiones de Prendas de vestir y calzado y Bebidas alcohólicas y tabaco, donde los factores estacionales hicieron que la medición oficial fuera 0.8 y 0.5 puntos porcentuales más baja, respectivamente (Figura 2 del informe). Durante los últimos 12 meses, el índice aumentó un 263.4 por ciento antes del ajuste estacional (datos oficiales de INDEC).
-<br>
+En agosto los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.2 puntos porcentuales mayor que sin estacionalidad, 4.2 por ciento versus 4.0 por ciento. Esta diferencia de 0.2 puntos porcentuales en la inflación con estacionalidad de agosto se explica fundamentalmente por el comportamiento de las divisiones de Recreación y cultura, Prendas de vestir y calzado y Equipamiento y mantenimiento del hogar, donde los factores estacionales hicieron que la medición oficial fuera 0.3 y 0.5 puntos porcentuales más alta (Figura 2 del informe). Durante los últimos 12 meses, el índice aumentó un 236.7 por ciento antes del ajuste estacional (datos oficiales de INDEC).<br>
 
-En julio, la tasa de inflación mensual que enfrentaron los hogares de menores ingresos fue de 4.10 por ciento mientras que para los hogares del 20 por ciento de mayores ingresos la inflación fue de 4.24 por ciento. Comparando contra el mismo mes del año anterior fue de 261.54 por ciento para el 20 por ciento con menores y ingresos y de 263.92 por ciento para los hogares de mayores ingresos (Cuadro 3 del informe).<br>
+En agosto, la tasa de inflación mensual que enfrentaron los hogares de menores ingresos fue de 4.03 por ciento mientras que para los hogares del 20 por ciento de mayores ingresos la inflación fue de 4.12 por ciento. Comparando contra el mismo mes del año anterior fue de 233.17 por ciento para el 20 por ciento con menores y ingresos y de 238.07 por ciento para los hogares de mayores ingresos (Cuadro 3 del informe).<br>
 
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/IPCse/).***
@@ -24,6 +23,8 @@ En julio, la tasa de inflación mensual que enfrentaron los hogares de menores i
 
 
 ***Links a informes en PDF***
+
+[Julio 2024](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202024-08%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
 [Julio 2024](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202024-07%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
