@@ -12,4 +12,11 @@ En el primer trimestre de 2024, en el total de los 31 aglomerados urbanos captur
 
 ***Para leer el informe completo, haga click [aquí](https://www.utdt.edu/download.php?fname=_172295247740061400.pdf).***
 
-![Evolucion de la pobreza y de la indigencia](/assets/images/fig1.png)
+![Situación del mercado de trabajo](/assets/images/fig0.png)
+
+
+***Links a informes en PDF***
+
+[Segundo Trimestre 2024](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/SITUACION%20DEL%20MERCADO%20DE%20TRABAJO%20-%202024Q2.pdf)
+
+

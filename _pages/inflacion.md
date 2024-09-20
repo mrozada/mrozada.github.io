@@ -16,4 +16,4 @@ En la región Patagonia los hogares de muy bajos ingresos enfrentaron en agosto 
 
 ***Links a informes en PDF***
 
-[Agosto 2024](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/BRECHAS%20DE%20INFLACION%20-%202024-08%20.pdf)
+[Agosto 2024](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/BRECHAS%20DE%20INFLACION%20-%202024-08.pdf)
