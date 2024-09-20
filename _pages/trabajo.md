@@ -7,7 +7,7 @@ header:
 
 ## RESULTADOS SEGUNDO TRIMESTRE 2024
 
-En el primer trimestre de 2024, en el total de los 31 aglomerados urbanos capturados por la Encuesta Permanente de Hogares la pobreza se estimó en 54.9% y la indigencia en 20.3%. La desigualdad, medida por el coeficiente de Gini, pasó de 0.446 en el primer trimestre de 2023 a 0.467 en el primero de 2024
+En el segundo trimestre de 2024, en el total de los 31 aglomerados urbanos capturados por la Encuesta Permanente de Hogares (EPH) la tasa de actividad se estimó en 48.5 por ciento, la tasa de empleo en 44.8 por ciento y la tasa de desocupación en 7.6 por ciento (Figura 1 del informe).
 
 
 ***Para leer el informe completo, haga click [aquí](https://www.utdt.edu/download.php?fname=_172295247740061400.pdf).***
