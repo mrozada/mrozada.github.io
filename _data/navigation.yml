@@ -9,3 +9,5 @@ main:
     url: /pobreza/
   - title: "Inflación"
     url: /inflacion/
+  - title: "Trabajo"
+    url: /trabajo/
