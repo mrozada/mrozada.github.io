@@ -9,7 +9,7 @@ header:
 
 ### RESULTADOS PRIMER SEMESTRE 2024
 
-En el primer semestre de 2024, en el total de los 31 aglomeradosurbanos capturados por la Encuesta Permanente de Hogares, latasa de pobreza fue de 52.9 por ciento y la de indigencia 18.1 porciento. Esto implica un aumento de 11.2 puntos porcentuales en lapobreza y de 6.2 puntos porcentuales en la indigencia comparadascon el segundo semestre de 2023.
+En el primer semestre de 2024, en el total de los 31 aglomerados urbanos capturados por la Encuesta Permanente de Hogares, la tasa de pobreza fue de 52.9 por ciento y la de indigencia 18.1 por ciento. Esto implica un aumento de 11.2 puntos porcentuales en la pobreza y de 6.2 puntos porcentuales en la indigencia comparadas con el segundo semestre de 2023.
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/pobreza-indigencia/).***
 
