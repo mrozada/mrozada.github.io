@@ -25,7 +25,7 @@ En octubre, la tasa de inflación mensual que enfrentaron los hogares de menores
 ***Links a informes en PDF***
 
 [Octubre 2024](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202024-10%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
-1
+
 [Septiembre 2024](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202024-09%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
 [Agosto 2024](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202024-08%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
