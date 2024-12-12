@@ -5,13 +5,13 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-## RESULTADOS OCTUBRE 2024
+## RESULTADOS NOVIEMBRE 2024
 
-**El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 2.4 por ciento en septiembre, luego de haber aumentado un 3 por ciento en agosto.**
+**El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 2.9 por ciento en noviembre, luego de haber aumentado un 2.4 por ciento en octubre**
 
-En octubre los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.3 puntos porcentuales mayor que sin estacionalidad, 2.7 por ciento versus 2.4 por ciento. Esta diferencia de 0.3 puntos porcentuales en la inflación con estacionalidad de octubre se explica fundamentalmente por el comportamiento de las divisiones de Alimentos y bebidas no alcohólicas, Prendas de vestir y calzado y Recreación y cultura, donde los factores estacionales hicieron que la medición oficial fuera 0.7, 0.6 y 0.4 puntos porcentuales más alta, respectivamente (Figura 2 del informe). Durante los últimos 12 meses, el índice aumentó un 193 por ciento antes del ajuste estacional (datos oficiales de INDEC).<br>
+En noviembre los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.5 puntos porcentuales menor que sin estacionalidad, 2.4 por ciento versus 2.9 por ciento. Esta diferencia de 0.5 puntos porcentuales en la inflación con estacionalidad de noviembre se explica fundamentalmente por el comportamiento de las divisiones de Alimentos y bebidas no alcohólicas, Prendas de vestir y calzado y Recreación y cultura, donde los factores estacionales hicieron que la medición oficial fuera 0.7, 0.6 y 0.4 puntos porcentuales más alta, respectivamente (Figura 2 del informe). Durante los últimos 12 meses, el índice aumentó un 166 por ciento antes del ajuste estacional (datos oficiales de INDEC). <br>
 
-En octubre, la tasa de inflación mensual que enfrentaron los hogares de menores ingresos fue de 2.09 por ciento mientras que para los hogares del 20 por ciento de mayores ingresos la inflación fue de 2.63 por ciento. Comparando contra el mismo mes del año anterior fue de 188.20 por ciento para el 20 por ciento con menores y ingresos y de 195.74 por ciento para los hogares de mayores ingresos (Cuadro 3 del informe).<br>
+En noviembre, la tasa de inflación mensual que enfrentaron los hogares de menores ingresos fue de 2.52 por ciento mientras que para los hogares del 20 por ciento de mayores ingresos la inflación fue de 3.06 por ciento. Comparando contra el mismo mes del año anterior fue de 160.00 por ciento para el 20 por ciento con menores y ingresos y de 169.41 por ciento para los hogares de mayores ingresos (Cuadro 3 del informe).<br>
 
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/IPCse/).***
@@ -23,6 +23,8 @@ En octubre, la tasa de inflación mensual que enfrentaron los hogares de menores
 
 
 ***Links a informes en PDF***
+
+[Noviembre 2024](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202024-11%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
 [Octubre 2024](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202024-10%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
