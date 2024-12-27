@@ -27,3 +27,14 @@ En el primer trimestre de 2024, en el total de los 31 aglomerados urbanos captur
 ***Para leer el informe completo, haga click [aquí](https://www.utdt.edu/download.php?fname=_172295247740061400.pdf).***
 
 ![Evolucion de la pobreza y de la desigualdad](/assets/images/fig1.png)
+
+
+## EVOLUCION DE LA POBREZA 
+
+###   EVOLUCION DE LA POBREZA ENTRE SEMESTRES ENERO-JUNIO Y ABRIL-SEPTIEMBRE 
+
+La incidencia de la pobreza cayó 8 puntos porcentuales entre el primer semestre del año y el semestre abril-septiembre de 2024 pasando de 52.9 a 44.9 por ciento Esta disminución en la tasa de pobreza se produjo por una caída, ceteris paribus, de casi 15 puntos porcentuales explicada por un aumento del valor real del ingreso per capita familiar, medido con respecto a la inflación de la canasta básica total y una distribución del ingreso más igualitaria entre esos dos semestres. El efecto crecimiento y distribución del ingreso se vió amortiguado por un aumento, ceteris paribus, de casi 7 puntos porcentuales en la tasa de pobreza entre semestres producido por el incremento del valor real del umbral con que se mide la pobreza, la canasta básica total per capita.
+
+***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/evolucionpobreza/).***
+
+![Evolucion de la pobreza](/assets/images/densidades4.png)
