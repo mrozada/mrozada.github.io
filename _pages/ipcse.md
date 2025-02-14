@@ -5,13 +5,13 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-## RESULTADOS DICIEMBRE 2024
+## RESULTADOS ENERO 2025
 
-**El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 3 por ciento en diciembre, luego de haber aumentado un 2.9 por ciento en noviembre.**
+**El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 1.8 por ciento en enero, luego de haber aumentado un 2.4 por ciento en diciembre.**
 
-En diciembre los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.3 puntos porcentuales menor que sin estacionalidad, 2.7 por ciento versus 3.0 por ciento. Esta diferencia de 0.3 puntos porcentuales en la inflación con estacionalidad de diciembre se explica fundamentalmente por el comportamiento de las divisiones de Educación, Prendas de vestir y calzado y Equipamiento y mantenimiento del hogar, donde los factores estacionales hicieron que la medición oficial fuera 4.2, 2.9 y 0.8 puntos porcentuales más baja, respectivamente (Figura 2 del informe). Durante los últimos 12 meses, el índice aumentó un 117.8 por ciento antes del ajuste estacional (datos oficiales de INDEC). <br>
+En enero los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.4 puntos porcentuales mayor que sin estacionalidad, 2.2 por ciento versus 1.8 por ciento. Esta diferencia de 0.4 puntos porcentuales en la inflación con estacionalidad de enero se explica fundamentalmente por el comportamiento de las divisiones de Comunicación, Alimentos y bebidas no alcohólicas y Bebidas alcohólicas y tabaco, donde los factores estacionales hicieron que la medición oficial fuera 4.5, 1.6 y 1.4 puntos porcentuales más alta, respectivamente (Figura 2 del informe). Durante los últimos 12 meses, el índice aumentó un 84.5 por ciento antes del ajuste estacional (datos oficiales de INDEC).<br>
 
-En diciembre, la tasa de inflación mensual que enfrentaron los hogares de menores ingresos fue de 2.86 por ciento mientras que para los hogares del 20 por ciento de mayores ingresos la inflación fue de 3.14 por ciento. Comparando contra el mismo mes del año anterior fue de 111.81 por ciento para el 20 por ciento de menores ingresos y de 121.03 por ciento para los hogares de mayores ingresos (Cuadro 3 del informe).<br>
+En enero, la tasa de inflación mensual que enfrentaron los hogares de menores ingresos fue de 1.50 por ciento mientras que para los hogares del 20 por ciento de mayores ingresos la inflación fue de 2.02 por ciento. Comparando contra el mismo mes del año anterior fue de 79.76 por ciento para el 20 por ciento de menores ingresos y de 87.26 por ciento para los hogares de mayores ingresos (Cuadro 3 del informe).<br>
 
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/IPCse/).***
@@ -23,6 +23,8 @@ En diciembre, la tasa de inflación mensual que enfrentaron los hogares de menor
 
 
 ***Links a informes en PDF***
+
+[Enero 2025](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202025-01%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
 [Diciembre 2024](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202024-12%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
