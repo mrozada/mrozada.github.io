@@ -13,6 +13,8 @@ Durante los últimos 12 meses, la inflación interanual fue de 96.7, comparado c
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/inflacionlatente/).***
 
+![Series de tiempo IPC-Latente e IPC-INDEC](/assets/images/TimeSeriesTasaMensualIPCL.png)
+
 ***Links a informes en PDF***
 
 [Enero 2024](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/INFLACION%20LATENTE%20-%202025-01.pdf)
