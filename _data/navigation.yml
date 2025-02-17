@@ -5,6 +5,8 @@ main:
     url: /research/
   - title: "IPCse"
     url: /ipcse/
+  - title: "IPCL"
+    url: /ipclatente/
   - title: "Pobreza"
     url: /pobreza/
   - title: "Brechas"

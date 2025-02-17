@@ -20,3 +20,7 @@ Para acceder al informe, haga click [aquí](https://mrozada.github.io/pobreza/) 
 
 Para acceder al informe, haga click [aquí](https://mrozada.github.io/inflacion/) <br>
 
+### INFLACION LATENTE
+
+Para acceder al informe, haga click [aquí](https://mrozada.github.io/ipclatente/) <br>
+
