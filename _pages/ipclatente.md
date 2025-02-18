@@ -17,5 +17,5 @@ Durante los últimos 12 meses, la inflación interanual fue de 96.7, comparado c
 
 ***Links a informes en PDF***
 
-[Enero 2024](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/INFLACION%20LATENTE%20-%202025-01.pdf)
+[Enero 2025](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/INFLACION%20LATENTE%20-%202025-01.pdf)
 
