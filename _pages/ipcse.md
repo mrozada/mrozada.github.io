@@ -5,13 +5,13 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-## RESULTADOS ENERO 2025
+## RESULTADOS FEBRERO 2025
 
-**El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 1.8 por ciento en enero, luego de haber aumentado un 2.4 por ciento en diciembre.**
+**El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 2.1 por ciento en febrero, luego de haber aumentado un 1.8 por ciento en enero.**
 
-En enero los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.4 puntos porcentuales mayor que sin estacionalidad, 2.2 por ciento versus 1.8 por ciento. Esta diferencia de 0.4 puntos porcentuales en la inflación con estacionalidad de enero se explica fundamentalmente por el comportamiento de las divisiones de Comunicación, Alimentos y bebidas no alcohólicas y Bebidas alcohólicas y tabaco, donde los factores estacionales hicieron que la medición oficial fuera 4.5, 1.6 y 1.4 puntos porcentuales más alta, respectivamente (Figura 2 del informe). Durante los últimos 12 meses, el índice aumentó un 84.5 por ciento antes del ajuste estacional (datos oficiales de INDEC).<br>
+En febrero los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.3 puntos porcentuales mayor que sin estacionalidad, 2.4 por ciento versus 2.1 por ciento. Esta diferencia de 0.3 puntos porcentuales en la inflación con estacionalidad de febrero se explica fundamentalmente por el comportamiento de las divisiones de Comunicación, Alimentos y bebidas no alcohólicas y Bebidas alcohólicas y tabaco, donde los factores estacionales hicieron que la medición oficial fuera 2.9, 1.3 y 0.3 puntos porcentuales más alta, respectivamente (Figura 2 del informe). Durante los últimos 12 meses, el índice aumentó un 66.9 por ciento antes del ajuste estacional (datos oficiales de INDEC).<br>
 
-En enero, la tasa de inflación mensual que enfrentaron los hogares de menores ingresos fue de 1.50 por ciento mientras que para los hogares del 20 por ciento de mayores ingresos la inflación fue de 2.02 por ciento. Comparando contra el mismo mes del año anterior fue de 79.76 por ciento para el 20 por ciento de menores ingresos y de 87.26 por ciento para los hogares de mayores ingresos (Cuadro 3 del informe).<br>
+En febrero, la tasa de inflación mensual que enfrentaron los hogares de menores ingresos fue de 2.09 por ciento mientras que para los hogares del 20 por ciento de mayores ingresos la inflación fue de 2.15 por ciento. Comparando contra el mismo mes del año anterior fue de 63.95 por ciento para el 20 por ciento de menores ingresos y de 68.91 por ciento para los hogares de mayores ingresos (Cuadro 3 del informe).<br>
 
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/IPCse/).***
@@ -23,6 +23,8 @@ En enero, la tasa de inflación mensual que enfrentaron los hogares de menores i
 
 
 ***Links a informes en PDF***
+
+[Febrero 2025](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202025-02%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
 [Enero 2025](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202025-01%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
