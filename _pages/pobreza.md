@@ -31,10 +31,16 @@ En el primer trimestre de 2024, en el total de los 31 aglomerados urbanos captur
 
 ## EVOLUCION DE LA POBREZA 
 
-###   EVOLUCION DE LA POBREZA ENTRE SEMESTRES ENERO-JUNIO Y ABRIL-SEPTIEMBRE 
+###   EVOLUCION DE LA POBREZA ENTRE SEMESTRES DURANTE 2024 
 
-La incidencia de la pobreza cayó 8 puntos porcentuales entre el primer semestre del año y el semestre abril-septiembre de 2024 pasando de 52.9 a 44.9 por ciento Esta disminución en la tasa de pobreza se produjo por una caída, ceteris paribus, de casi 15 puntos porcentuales explicada por un aumento del valor real del ingreso per capita familiar, medido con respecto a la inflación de la canasta básica total y una distribución del ingreso más igualitaria entre esos dos semestres. El efecto crecimiento y distribución del ingreso se vió amortiguado por un aumento, ceteris paribus, de casi 7 puntos porcentuales en la tasa de pobreza entre semestres producido por el incremento del valor real del umbral con que se mide la pobreza, la canasta básica total per capita.
+La incidencia de la pobreza cayó 14.8 puntos porcentuales entre el primer y segundo semestres del año 2024 pasando de 52.9 a 38.1 por ciento Esta disminución en la tasa de pobreza se produjo por una caída, ceteris paribus, de 25 puntos porcentuales explicada por un aumento del valor real del ingreso per capita familiar, medido con respecto a la inflación de la canasta básica total y una distribución del ingreso más igualitaria entre esos dos semestres. El efecto crecimiento y distribución del ingreso se vió amortiguado por un aumento, ceteris paribus, de alrededor de 10 puntos porcentuales en la tasa de pobreza entre semestres producido por el incremento del valor real del umbral con que se mide la pobreza, la canasta básica total per capita.
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/evolucionpobreza/).***
 
 ![Evolucion de la pobreza](/assets/images/densidades4.png)
+
+***Links a informes en PDF***
+
+[EVOLUCIÓN DE LA POBREZA DURANTE 2024](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/EVOLUCI%C3%93N%20DE%20LA%20POBREZA%20DURANTE%202024)
+
+[EVOLUCIÓN DE LA POBREZA ENTRE LOS SEMESTRES ENERO-JUNIO Y ABRIL-SEPTIEMBRE](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/EVOLUCI%C3%93N%20DE%20LA%20POBREZA%20ENTRE%20LOS%20SEMESTRES%20ENERO-JUNIO%20Y%20ABRIL-SEPTIEMBRE.pdf)
