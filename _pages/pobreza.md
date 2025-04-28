@@ -41,6 +41,6 @@ La incidencia de la pobreza cayó 14.8 puntos porcentuales entre el primer y seg
 
 ***Links a informes en PDF***
 
-[EVOLUCIÓN DE LA POBREZA DURANTE 2024](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/EVOLUCI%C3%93N%20DE%20LA%20POBREZA%20DURANTE%202024)
+[EVOLUCIÓN DE LA POBREZA DURANTE 2024](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/EVOLUCI%C3%93N%20DE%20LA%20POBREZA%20DURANTE%202024.pdf)
 
 [EVOLUCIÓN DE LA POBREZA ENTRE LOS SEMESTRES ENERO-JUNIO Y ABRIL-SEPTIEMBRE](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/EVOLUCI%C3%93N%20DE%20LA%20POBREZA%20ENTRE%20LOS%20SEMESTRES%20ENERO-JUNIO%20Y%20ABRIL-SEPTIEMBRE.pdf)
