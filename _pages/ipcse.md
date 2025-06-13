@@ -5,15 +5,13 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-## RESULTADOS ABRIL 2025
+## RESULTADOS MAYO 2025
 
-**El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 2.7 por ciento en abril, luego de haber aumentado un 2.6 por ciento en marzo.**
+**El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 2 por ciento en mayo, luego de haber aumentado un 2.7 por ciento en abril.**
 
-En abril los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.1 puntos porcentuales mayor que sin estacionalidad, 2.8 por ciento versus 2.7 por ciento. Esta diferencia de 0.1 puntos porcentuales en la inflación con estacionalidad de abril se explica fundamentalmente por el comportamiento de la división de Prendas de vestir y calzado donde los factores estacionales hicieron que la medición oficial fuera 2.6 puntos porcentuales más alta (Figura 2 del informe). Durante los últimos 12 meses, el índice aumentó un 47.3 por ciento antes del ajuste estacional (datos oficiales de INDEC).
+En mayo los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.5 puntos porcentuales menor que sin estacionalidad, 1.5 por ciento versus 2.0 por ciento. Esta diferencia de 0.5 puntos porcentuales en la inflación con estacionalidad de mayo se explica fundamentalmente por el comportamiento de la división de Alimentos y bebidas no alcohólicas y la división de Comunicación, donde los factores estacionales hicieron que la medición oficial fuera 1.3 y 0.9 puntos porcentuales más baja, respectivamente (Figura 2 del informe). Durante los últimos 12 meses, el índice aumentó un 43.5 por ciento antes del ajuste estacional (datos oficiales de INDEC). <br>
 
-<br>
-
-En abril, la tasa de inflación mensual que enfrentaron los hogares de menores ingresos fue de 2.74 por ciento mientras que para los hogares del 20 por ciento de mayores ingresos la inflación fue de 2.64 por ciento. Comparando contra el mismo mes del año anterior fue de 46.35 por ciento para el 20 por ciento de menores ingresos y de 48.10 por ciento para los hogares de mayores ingresos (Cuadro 3 del informe).<br>
+En mayo, la tasa de inflación mensual que enfrentaron los hogares de menores ingresos fue de 1.93 por ciento mientras que para los hogares del 20 por ciento de mayores ingresos la inflación fue de 1.99 por ciento. Comparando contra el mismo mes del año anterior fue de 42.12 por ciento para el 20 por ciento de menores ingresos y de 44.58 por ciento para los hogares de mayores ingresos (Cuadro 3 del informe).<br>
 
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/IPCse/).***
@@ -25,6 +23,8 @@ En abril, la tasa de inflación mensual que enfrentaron los hogares de menores i
 
 
 ***Links a informes en PDF***
+
+[Mayo 2025](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202025-05%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
 [Abril 2025](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202025-04%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
