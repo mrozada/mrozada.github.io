@@ -5,16 +5,19 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-## RESULTADOS ABRIL 2025
-El nivel general del Índice de Precios al Consumidor Latente (IPCL) aumentó un 2.6 por ciento en abril, luego de haber aumentado un 3.6 por ciento en marzo impulsado por el aumento de precios de la división de Alimentos y bebidas no alcohólicas que explicó alrededor del 23 por ciento de la inflación (Cuadros 1 y 2 del informe). 
+## RESULTADOS MAYO 2025
 
-Durante los últimos 12 meses, la inflación interanual fue de 51.3, comparado con el valor de 47.3 en los datos oficiales (Cuadro 1 y Figura 2).
+El nivel general del Índice de Precios al Consumidor Latente (IPCL) aumentó un 1.7 por ciento en mayo, luego de haber aumentado un 2.6 por ciento en abril impulsado por el aumento de precios de la división de Vivienda, Agua, Electricidad, Gas y Otros Combustibles, que explicó alrededor del 28 por ciento de la inflación (Cuadros 1 y 2 del informe). 
+
+Durante los últimos 12 meses, la inflación interanual fue de 47.6, comparado con el valor de 43.5 en los datos oficiales (Cuadro 1 y Figura 2).
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/inflacionlatente/).***
 
 ![Series de tiempo IPC-Latente e IPC-INDEC](/assets/images/TimeSeriesTasaMensualIPCL.png)
 
 ***Links a informes en PDF***
+
+[Mayo 2025](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/INFLACION%20LATENTE%20-%202025-05.pdf)
 
 [Abril 2025](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/INFLACION%20LATENTE%20-%202025-04.pdf)
 
