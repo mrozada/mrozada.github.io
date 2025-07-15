@@ -24,7 +24,7 @@ En junio, la tasa de inflación mensual que enfrentaron los hogares de menores i
 
 ***Links a informes en PDF***
 
-[Mayo 2026](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202025-05%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
+[Junio 2026](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202025-05%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
 [Mayo 2025](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202025-05%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
