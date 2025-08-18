@@ -5,16 +5,20 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-## RESULTADOS MAYO 2025
+## RESULTADOS JULIO 2025
 
-Los hogares de muy bajos ingresos, decil 1, enfrentaron en mayo una inflación mensual de 1.28 por ciento comparada con una inflación mensual de 1.66 por ciento para los hogares del 10 por ciento de mayores ingresos (Cuadro 2 del informe).
+Los hogares de muy bajos ingresos, decil 1, enfrentaron en julio una inflación mensual de 1.81 por ciento comparada con una inflación mensual de 1.99 por ciento para los hogares del 10 por ciento de mayores ingresos (Cuadro 2 del informe).
 
-brecha de inflación por deciles de ingreso es negativa en todas las regiones indicando que los hogares de muy bajos ingresos enfrentaron una inflación que va desde 0.16 puntos porcentuales más baja que los hogares de muy altos ingresos en la región Noreste, hasta 3.58 puntos porcentuales más baja en la región Noroeste (Figura 11 del informe).
+La brecha de inflación por deciles de ingreso es negativa en todas las regiones indicando que los hogares de muy bajos ingresos enfrentaron una inflación que va desde 0.89 puntos porcentuales más baja que los hogares de muy altos ingresos en la región Noreste, hasta 2.65 puntos porcentuales más baja en la región GBA (Figura 11 del informe).
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/brechas/).***
 
 
 ***Links a informes en PDF***
+
+[Julio 2025](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/BRECHAS%20DE%20INFLACION%20-%202025-07.pdf)
+
+[Junio 2025](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/BRECHAS%20DE%20INFLACION%20-%202025-06.pdf)
 
 [Mayo 2025](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/BRECHAS%20DE%20INFLACION%20-%202025-05.pdf)
 
