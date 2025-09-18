@@ -5,9 +5,9 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-## RESULTADOS PRIMER TRIMESTRE 2025
+## RESULTADOS SEGUNDO TRIMESTRE 2025
 
-En el primer trimestre de 2025, en el total de los 31 aglomerados urbanos capturados por la Encuesta Permanente de Hogares (EPH) la tasa de actividad se estimó en 48.2 por ciento, la tasa de empleo en 44.4 por ciento y la tasa de desocupación en 7.9 por ciento (Figura 1 del informe).
+En el segundo trimestre de 2025, en el total de los 31 aglomerados urbanos capturados por la Encuesta Permanente de Hogares (EPH) la tasa de actividad se estimó en 48.1 por ciento, la tasa de empleo en 44.5 por ciento y la tasa de desocupación en 7.6 por ciento (Figura 1 del informe).
 
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/mercadodetrabajo/).***
@@ -16,6 +16,8 @@ En el primer trimestre de 2025, en el total de los 31 aglomerados urbanos captur
 
 
 ***Links a informes en PDF***
+
+[Segundo Trimestre 2025](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/SITUACION%20DEL%20MERCADO%20DE%20TRABAJO%20-%202025Q2.pdf)
 
 [Primer Trimestre 2025](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/SITUACION%20DEL%20MERCADO%20DE%20TRABAJO%20-%202025Q1.pdf)
 
