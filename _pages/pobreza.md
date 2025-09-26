@@ -7,9 +7,9 @@ header:
 
 ## EVOLUCION DE LA POBREZA Y LA INDIGENCIA
 
-### RESULTADOS PRIMER SEMESTRE 2024
+### RESULTADOS PRIMER SEMESTRE 2025
 
-En el primer semestre de 2024, en el total de los 31 aglomerados urbanos capturados por la Encuesta Permanente de Hogares, la tasa de pobreza fue de 52.9 por ciento y la de indigencia 18.1 por ciento. Esto implica un aumento de 11.2 puntos porcentuales en la pobreza y de 6.2 puntos porcentuales en la indigencia comparadas con el segundo semestre de 2023.
+En el primer semestre de 2025, en el total de los 31 aglomerados urbanos capturados por la Encuesta Permanente de Hogares, la tasa de pobreza fue de 31.6 por ciento y la de indigencia 6.9 por ciento. Esto implica una caída de 21.3 puntos porcentuales en la pobreza y de 11.2 puntos porcentuales en la indigencia comparadas con el segundo semestre de 2024.
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/pobreza-indigencia/).***
 
@@ -40,6 +40,8 @@ La incidencia de la pobreza cayó 14.8 puntos porcentuales entre el primer y seg
 ![Evolucion de la pobreza](/assets/images/densidades4.png)
 
 ***Links a informes en PDF***
+
+[EVOLUCIÓN DE LA POBREZA Y LA INDIGENCIA 1S2025](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/EVOLUCI%C3%93N%20DE%20LA%20POBREZA%20Y%20LA%20INDIGENCIA%201S2025.pdf)
 
 [EVOLUCIÓN DE LA POBREZA DURANTE 2024](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/EVOLUCI%C3%93N%20DE%20LA%20POBREZA%20DURANTE%202024.pdf)
 
