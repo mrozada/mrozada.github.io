@@ -9,7 +9,7 @@ header:
 
 ### RESULTADOS PRIMER SEMESTRE 2025
 
-En el primer semestre de 2025, en el total de los 31 aglomerados urbanos capturados por la Encuesta Permanente de Hogares, la tasa de pobreza fue de 31.6 por ciento y la de indigencia 6.9 por ciento. Esto implica una caída de 21.3 puntos porcentuales en la pobreza y de 11.2 puntos porcentuales en la indigencia comparadas con el segundo semestre de 2024.
+En el primer semestre de 2025, en el total de los 31 aglomerados urbanos capturados por la Encuesta Permanente de Hogares, la tasa de pobreza fue de 31.6 por ciento y la de indigencia 6.9 por ciento. Esto implica una caída de 21.3 puntos porcentuales en la pobreza y de 11.2 puntos porcentuales en la indigencia comparadas con el primer semestre de 2024.
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/pobreza-indigencia/).***
 
