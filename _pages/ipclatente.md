@@ -7,7 +7,7 @@ header:
 
 ## RESULTADOS NOVIEMBRE 2025
 
-El nivel general del Índice de Precios al Consumidor Latente (IPCL) aumentó un 2.7 por ciento en noviembre, luego de haber aumentado un 2.4 por ciento en octubre impulsado por el aumento de precios de las divisiones de Vivienda, agua, electricidad, gas y otros combustibles y Alimentos y bebidas no alcohólicas, que explicaron alrededor del 26 y 20 por ciento de la inflación respectivamente (Cuadros 1 y 2 del informe). En comparación, la tasa de inflación mensual oficial publicada por el INDEC fue de 2.3 por ciento (Cuadro 1 y Figura 1 del informe). 
+El nivel general del Índice de Precios al Consumidor Latente (IPCL) aumentó un 2.7 por ciento en noviembre, luego de haber aumentado un 2.4 por ciento en octubre impulsado por el aumento de precios de las divisiones de Vivienda, agua, electricidad, gas y otros combustibles y Alimentos y bebidas no alcohólicas, que explicaron alrededor del 26 y 20 por ciento de la inflación respectivamente (Cuadros 1 y 2 del informe). En comparación, la tasa de inflación mensual oficial publicada por el INDEC fue de 2.5 por ciento (Cuadro 1 y Figura 1 del informe). 
 
 Durante los últimos 12 meses, la inflación interanual fue de 33.7 por ciento, comparado con el valor de 31.4 por ciento en los datos oficiales (Cuadro 1 y Figura 2 del informe).
 
