@@ -5,11 +5,11 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-## RESULTADOS OCTUBRE 2025
+## RESULTADOS NOVIEMBRE 2025
 
-El nivel general del Índice de Precios al Consumidor Latente (IPCL) aumentó un 2.4 por ciento en octubre, luego de haber aumentado un 2.3 por ciento en septiembre impulsado por el aumento de precios de las divisiones de Vivienda, agua, electricidad, gas y otros combustibles y Transporte, que explicaron alrededor del 23.6 y 20.2 por ciento de la inflación respectivamente (Cuadros 1 y 2 del informe). En comparación, la tasa de inflación mensual oficial publicada por el INDEC fue de 2.3 por ciento (Cuadro 1 y Figura 1 del informe). 
+El nivel general del Índice de Precios al Consumidor Latente (IPCL) aumentó un 2.7 por ciento en noviembre, luego de haber aumentado un 2.4 por ciento en octubre impulsado por el aumento de precios de las divisiones de Vivienda, agua, electricidad, gas y otros combustibles y Alimentos y bebidas no alcohólicas, que explicaron alrededor del 26 y 20 por ciento de la inflación respectivamente (Cuadros 1 y 2 del informe). En comparación, la tasa de inflación mensual oficial publicada por el INDEC fue de 2.3 por ciento (Cuadro 1 y Figura 1 del informe). 
 
-Durante los últimos 12 meses, la inflación interanual fue de 33.8 por ciento, comparado con el valor de 31.3 por ciento en los datos oficiales (Cuadro 1 y Figura 2 del informe).
+Durante los últimos 12 meses, la inflación interanual fue de 33.7 por ciento, comparado con el valor de 31.4 por ciento en los datos oficiales (Cuadro 1 y Figura 2 del informe).
 
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/inflacionlatente/).***
@@ -18,6 +18,8 @@ Durante los últimos 12 meses, la inflación interanual fue de 33.8 por ciento, 
 
 
 ***Links a informes en PDF***
+
+[Noviembre 2025](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/INFLACION%20LATENTE%20-%202025-11.pdf)
 
 [Octubre 2025](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/INFLACION%20LATENTE%20-%202025-10.pdf)
 
