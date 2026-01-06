@@ -5,6 +5,14 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
+## EVOLUCION TRIMESTRAL DE LA POBREZA
+
+![Evolucion trimestral de la pobreza](/assets/images/Evol_Trim_Pobreza.png)
+
+***Para conocer acerca de la metodología haga click [aqui](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/taller%20%13.pdf).***
+
+<br>
+
 ## EVOLUCION DE LA POBREZA Y LA INDIGENCIA
 
 ### RESULTADOS PRIMER SEMESTRE 2025
