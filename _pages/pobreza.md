@@ -7,7 +7,7 @@ header:
 
 ## EVOLUCION TRIMESTRAL DE LA POBREZA
 
-![Evolucion trimestral de la pobreza](/assets/images/Evol_Trim_Pobreza.png)
+![Evolucion trimestral de la pobreza](/assets/images/Evol_Trim_Pobreza.jpeg)
 
 ***Para conocer acerca de la metodología haga click [aqui](assets/pdf/taller13.pdf).***
 
