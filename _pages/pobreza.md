@@ -9,7 +9,7 @@ header:
 
 ![Evolucion trimestral de la pobreza](/assets/images/Evol_Trim_Pobreza.png)
 
-***Para conocer acerca de la metodología haga click [aqui](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/taller%20%13.pdf).***
+***Para conocer acerca de la metodología haga click [aqui](assets/pdf/taller13.pdf).***
 
 <br>
 
