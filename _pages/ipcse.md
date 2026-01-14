@@ -5,13 +5,13 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-## RESULTADOS NOVIEMBRE 2025
+## RESULTADOS DICIEMBRE 2025
 
-**El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 2.7 por ciento en noviembre, luego de haber aumentado un 2.4 por ciento en octubre.**
+**El índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 2.6 por ciento en diciembre, luego de haber aumentado un 2.7 por ciento en noviembre.**
 
-En noviembre los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.2 puntos porcentuales menor que sin estacionalidad, 2.5 por ciento versus 2.7 por ciento. Esta diferencia de 0.2 puntos porcentuales en la inflación oficial de noviembre se explica fundamentalmente por el comportamiento de la división Educación donde los factores estacionales hicieron que la medición oficial fuera 2.7 puntos porcentuales más baja (Figura 2 del informe). Durante los últimos 12 meses, el índice aumentó un 31.4 por ciento antes del ajuste estacional (datos oficiales de INDEC). <br>
+En diciembre los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.2 puntos porcentuales mayor que sin estacionalidad, 2.8 por ciento versus 2.6 por ciento. Esta diferencia de 0.2 puntos porcentuales en la inflación oficial de diciembre se explica fundamentalmente por el comportamiento de la división Prendas de Vestir y Calzado donde los factores estacionales hicieron que la medición oficial fuera 0.7 puntos porcentuales más alta (Figura 2 del informe). Durante los últimos 12 meses, el índice aumentó un 31.5 por ciento antes del ajuste estacional (datos oficiales de INDEC). <br>
 
-En noviembre, la tasa de inflación mensual que enfrentaron los hogares de menores ingresos fue de 2.77 por ciento mientras que para los hogares del 20 por ciento de mayores ingresos la inflación fue de 2.67 por ciento. Comparando contra el mismo mes del año anterior fue de 30.85 por ciento para el 20 por ciento de menores ingresos y de 31.85 por ciento para los hogares de mayores ingresos (Cuadro 3 del informe).<br>
+En diciembre, la tasa de inflación mensual que enfrentaron los hogares de menores ingresos fue de 2.39 por ciento mientras que para los hogares del 20 por ciento de mayores ingresos la inflación fue de 2.64 por ciento. Comparando contra el mismo mes del año anterior fue de 31.22 por ciento para el 20 por ciento de menores ingresos y de 31.90 por ciento para los hogares de mayores ingresos (Cuadro 3 del informe).<br>
 
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/IPCse/).***
