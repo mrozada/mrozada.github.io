@@ -10,16 +10,6 @@ header:
 
 ![***Resultados del segundo trimestre de 2025***](/assets/images/pobreza_2do_trim25.png)
 
-***Principales resultados***
-
-La tasa de pobreza nacional alcanzó el 37.3%, una disminución de 19.5pp respecto al pico de Q1 2024.
-
-La indigencia se ubicó en 6.0%, el nivel más bajo desde Q3 2017.
-
-La brecha entre propietarios (36.1%) e inquilinos (32.1%) es de +4.0pp.
-
-La región NEA (53.0%) y NOA (45.5%) presentan las tasas más elevadas.
-
 ***Para leer el informe completo haga click [aqui](/assets/pdf/reporte_pobreza_q2_2025.pdf).***
 
 ***Para ver un resumen de la metodología haga click [aqui](/assets/pdf/presentacion_pobreza_utdt.pdf).***
