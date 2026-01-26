@@ -5,6 +5,21 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
+## NUEVA MEDICION DE LA INDIGENCIA Y LA POBREZA BASADA EN LA ENGHo 2017-18
+
+
+![***Resultados del segundo trimestre de 2025***](/assets/images/pobreza_2do_trim25.png)
+
+***Para leer el informe completo haga click [aqui](/assets/pdf/reporte_pobreza_q2_2025.pdf).***
+
+***Para ver un resumen de la metodología haga click [aqui](/assets/pdf/presentacion_pobreza_utdt.pdf).***
+
+***Para conocer la metodología completa haga click [aqui](/assets/pdf/Metodologia_Medicion_Pobreza_UTDT_Completa.pdf).***
+
+***Nota técnica sobre la brecha de pobreza entre propietarios e inquilinos [aqui](/assets/pdf/nota_tecnica_brecha_pobreza.pdf).***
+
+
+
 ## EVOLUCION TRIMESTRAL DE LA POBREZA
 
 ![Evolucion trimestral de la pobreza](/assets/images/Evol_Trim_Pobreza.jpeg)
