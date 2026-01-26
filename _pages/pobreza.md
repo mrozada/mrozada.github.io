@@ -7,8 +7,10 @@ header:
 
 ## NUEVA MEDICION DE LA INDIGENCIA Y LA POBREZA BASADA EN LA ENGHo 2017-18
 
+***Resultados del segundo trimestre de 2025***
 
 ![***Resultados del segundo trimestre de 2025***](/assets/images/pobreza_2do_trim25.png)
+![***Resultados del segundo trimestre de 2025***](/assets/images/pobreza_2do_trim.png)
 
 ***Para leer el informe completo haga click [aqui](/assets/pdf/reporte_pobreza_q2_2025.pdf).***
 
