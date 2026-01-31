@@ -7,6 +7,12 @@ header:
 
 ## Artículos
 
+"The fiscal costs of unemployment insurance," with Joaquin Herrera and Hernán Ruffo. [Economía LACEA Journal](https://doi.org/10.31389/eco.533), Volume 25, Issue 1, January 2026.
+
+"Do trade agreements contribute to the decline in labor share? Evidence from Latin American countries," with Hernán Ruffo. [World Development](https://doi.org/10.1016/j.worlddev.2024.106561), Volume 177, May 2024.
+
+"The welfare effects of unemployment insurance in Argentina. New estimates using changes in the schedule of transfers," with Hernán Ruffo. [Journal of Human Resources](https://doi.org/10.3368/jhr.0622-12372R1), August 11, 2023.
+
 "The effect of comprehensive smoke-free legislation on the tourism industry in countries of the Caribbean Community (CARICOM)," with Elisa Prieto and Guillermo Sandoval. [Pan American Journal of Public Health, 2022](https://doi.org/10.26633/RPSP.2022.146); 46:e146. 
 
 "Impact of a Recent Tobacco Tax Reform in Argentina." [Tobacco Control](https://tobaccocontrol.bmj.com/content/tobaccocontrol/29/Suppl_5/s300.full.pdf) 2020;29:s300-s303.
