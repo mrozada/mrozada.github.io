@@ -2,7 +2,7 @@
 permalink: /ipclatente/
 title: "INFLACION LATENTE"
 header:
-  image: /assets/images/header-git4.jpg
+  image: /assets/images/newheader-gitipcl.jpg
 ---
 
 ## RESULTADOS DICIEMBRE 2025
