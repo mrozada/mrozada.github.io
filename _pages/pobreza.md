@@ -27,7 +27,7 @@ header:
 
 ## EVOLUCION TRIMESTRAL DE LA POBREZA
 
-![Evolucion trimestral de la pobreza](/assets/images/Evol_Trim_Pobreza.jpeg)
+![Evolucion trimestral de la pobreza](/assets/images/grafico_pobreza_utdt_vs_indec.png)
 
 ***Para conocer acerca de la metodología haga click [aqui](/assets/pdf/taller13.pdf).***
 
