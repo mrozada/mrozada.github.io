@@ -25,11 +25,11 @@ header:
 
 
 
-## EVOLUCION TRIMESTRAL DE LA POBREZA
+## EVOLUCION TRIMESTRAL DE LA POBREZA ENGHo 2017-18
 
 ![Evolucion trimestral de la pobreza](/assets/images/grafico_pobreza_utdt_vs_indec.png)
 
-***Para conocer acerca de la metodología haga click [aqui](/assets/pdf/taller13.pdf).***
+***Para conocer acerca de la metodología Taller 13 para la medición de la pobreza haga click [aqui](/assets/pdf/taller13.pdf).***
 
 <br>
 
