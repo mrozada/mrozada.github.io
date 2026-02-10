@@ -1,6 +1,6 @@
 ---
-permalink: /ipclatente/
-title: "INFLACION LATENTE"
+permalink: /ipcactualizado/
+title: "INFLACION ACTUALIZADA"
 header:
   image: /assets/images/newheader-gitipcl.jpg
 ---
