@@ -12,7 +12,7 @@ El nivel general del Índice de Precios al Consumidor Actualizado (IPCA) aument�
 Durante los últimos 12 meses, la inflación interanual fue de 32.1 por ciento, comparado con el valor de 32.4 por ciento en los datos oficiales (Cuadro 1 y Figura 2 del informe).
 
 
-***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/inflacionactualizada/).***
+***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/inflacionlatente/).***
 
 ![Series de tiempo IPC-Actualizado e IPC-INDEC](/assets/images/TimeSeriesTasaMensualIPCA.png)
 
