@@ -5,18 +5,20 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-## RESULTADOS DICIEMBRE 2025
+## RESULTADOS ENERO 2026
 
-Los hogares de muy bajos ingresos, decil 1, enfrentaron en diciembre una inflación mensual de 2.96 por ciento comparada con una inflación mensual de 2.77 por ciento para los hogares del 10 por ciento de mayores ingresos (Cuadro 2 del informe).
+Los hogares de muy bajos ingresos, decil 1, enfrentaron en enero una inflación mensual de 3.27 por ciento comparada con una inflación mensual de 2.65 por ciento para los hogares del 10 por ciento de mayores ingresos (Cuadro 2 del informe).
 
-La brecha de inflación por deciles de ingreso es negativa en casi todas las regiones indicando que los hogares de muy bajos ingresos enfrentaron una inflación que va desde 0.081 puntos porcentuales más baja que los hogares de muy altos ingresos en la región Pampeana, hasta 1.233 puntos porcentuales más baja en la región Patagonia (Figura 11 del informe).
+La brecha de inflación por deciles de ingreso es positiva en casi todas las regiones indicando que los hogares de muy bajos ingresos enfrentaron una inflación que va desde 0.495 puntos porcentuales más alta que los hogares de muy altos ingresos en la región Cuyo, hasta 2.275 puntos porcentuales más alta en la región Noreste (Figura 11 del informe).
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/brechas/).***
 
 
 ***Links a informes en PDF***
 
-[Diciembre 2025](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/BRECHAS%20DE%20INFLACION%20-%202025-11.pdf)
+[Enero 2026](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/BRECHAS%20DE%20INFLACION%20-%202026-01.pdf)
+
+[Diciembre 2025](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/BRECHAS%20DE%20INFLACION%20-%202025-12.pdf)
 
 [Noviembre 2025](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/BRECHAS%20DE%20INFLACION%20-%202025-11.pdf)
 
