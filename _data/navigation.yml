@@ -13,3 +13,5 @@ main:
     url: /inflacion/
   - title: "Trabajo"
     url: /trabajo/
+  - title: "Ingresos"
+    url: /ingresos/
