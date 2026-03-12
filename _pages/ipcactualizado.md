@@ -5,11 +5,11 @@ header:
   image: /assets/images/newheader-gitipcl.jpg
 ---
 
-## RESULTADOS ENERO 2026
+## RESULTADOS FEBRERO 2026
 
-El nivel general del Índice de Precios al Consumidor Actualizado (IPCA) aumentó un 2.7 por ciento en enero, luego de haber aumentado un 2.8 por ciento en diciembre impulsado por el aumento de precios de las divisiones de Alimentos y bebidas no alcohólicas y Vivienda, agua, electricidad, gas y otros combustibles, que explicaron alrededor del 37.3 y 16.6 por ciento de la inflación respectivamente (Cuadros 1 y 2 del informe). 
+El nivel general del Índice de Precios al Consumidor Actualizado (IPCA) aumentó un 3.1 por ciento en febrero, luego de haber aumentado un 2.7 por ciento en enero impulsado por el aumento de precios de las divisiones de Vivienda, agua, electricidad, gas y otros combustibles y Alimentos y bebidas no alcohólicas, que explicaron alrededor del 33.6 y 24.1 por ciento de la inflación respectivamente (Cuadros 1 y 2 del informe). 
 
-Durante los últimos 12 meses, la inflación interanual fue de 32.1 por ciento, comparado con el valor de 32.4 por ciento en los datos oficiales (Cuadro 1 y Figura 2 del informe).
+Durante los últimos 12 meses, la inflación interanual fue de 33.0 por ciento, comparado con el valor de 33.1 por ciento en los datos oficiales (Cuadro 1 y Figura 2 del informe).
 
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/inflacionlatente/).***
@@ -18,6 +18,8 @@ Durante los últimos 12 meses, la inflación interanual fue de 32.1 por ciento, 
 
 
 ***Links a informes en PDF***
+
+[Febrero 2026](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/INFLACION%20ACTUALIZADA%20-%202026-02.pdf)
 
 [Enero 2026](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/INFLACION%20ACTUALIZADA%20-%202026-01.pdf)
 
