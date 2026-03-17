@@ -25,4 +25,12 @@ En el segundo trimestre de 2025, en el total de los 31 aglomerados urbanos captu
 
 [Segundo Trimestre 2024](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/SITUACION%20DEL%20MERCADO%20DE%20TRABAJO%20-%202024Q2.pdf)
 
+## SUBUTILIZACIÓN LABORAL EN ARGENTINA
 
+En 2025, el 43.2% de la fuerza laboral extendida argentina tenía su oferta de trabajo
+subutilizada. Esta medida — más amplia que la tasa de desempleo — incorpora a los
+subocupados, los disponibles que no buscan trabajo y otros grupos con oferta de trabajo
+insatisfecha.
+
+***Para ver el análisis completo por provincia, sexo y grupo etario,
+haga click [aquí](/subutilizacion/).***
