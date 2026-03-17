@@ -61,7 +61,7 @@ La subutilización laboral en Argentina muestra una tendencia decreciente entre 
 
 El año 2020 marca una ruptura abrupta: la subutilización salta a 50.7%, impulsada principalmente por el aumento de inactivos disponibles no buscadores durante el ASPO. A diferencia de otras crisis, el desempleo no fue el principal motor del deterioro — muchas personas directamente dejaron de buscar trabajo ante las restricciones de circulación.
 
-La recuperación post-COVID fue rápida y sostenida hasta 2023. En 2024 se observa un nuevo repunte (43.6%), consistente con el proceso de ajuste iniciado en diciembre de 2023.
+La recuperación post-COVID fue rápida y sostenida hasta 2023. En 2024 se observa un nuevo repunte (43.6%), explicado casi enteramente por el crecimiento de inactivos disponibles que no buscaron empleo activamente. El desempleo y la subocupación permanecieron relativamente estables.
 
 ---
 
