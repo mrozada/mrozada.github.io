@@ -5,16 +5,18 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-## RESULTADOS ENERO 2026
+## RESULTADOS FEBRERO 2026
 
-Los hogares de muy bajos ingresos, decil 1, enfrentaron en enero una inflación mensual de 3.27 por ciento comparada con una inflación mensual de 2.65 por ciento para los hogares del 10 por ciento de mayores ingresos (Cuadro 2 del informe).
+Los hogares de muy bajos ingresos, decil 1, enfrentaron en febrero una inflación mensual de 3.18 por ciento comparada con una inflación mensual de 2.79 por ciento para los hogares del 10 por ciento de mayores ingresos (Cuadro 2 del informe).
 
-La brecha de inflación por deciles de ingreso es positiva en casi todas las regiones indicando que los hogares de muy bajos ingresos enfrentaron una inflación que va desde 0.495 puntos porcentuales más alta que los hogares de muy altos ingresos en la región Cuyo, hasta 2.275 puntos porcentuales más alta en la región Noreste (Figura 11 del informe).
+La brecha de inflación por deciles de ingreso es positiva en casi todas las regiones indicando que los hogares de muy bajos ingresos enfrentaron una inflación que va desde 0.612 puntos porcentuales más alta que los hogares de muy altos ingresos en la región Pampeana, hasta 2.425 puntos porcentuales más alta en la región Noreste (Figura 11 del informe).
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/brechas/).***
 
 
 ***Links a informes en PDF***
+
+[Febrero 2026](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/BRECHAS%20DE%20INFLACION%20-%202026-02.pdf)
 
 [Enero 2026](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/BRECHAS%20DE%20INFLACION%20-%202026-01.pdf)
 
