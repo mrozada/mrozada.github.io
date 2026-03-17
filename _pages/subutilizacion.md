@@ -55,7 +55,7 @@ Esta metodología es la que utiliza Eurostat para monitorear el mercado laboral 
 
 ## Evolución nacional, 2016-2025
 
-![Subutilizacion laboral en Argentina 2016-2025](/assets/images/subutilizacion/slack_nacional_total_eahu.png)
+![Subutilizacion laboral en Argentina 2016-2025](/assets/images/subutilizacion/slack_nacional_total_eahu_v2.png)
 
 La subutilización laboral en Argentina muestra una tendencia decreciente entre 2016 y 2023, pasando de 43.5% a 38.6% de la fuerza laboral extendida — el valor más bajo de la serie. Este descenso refleja la mejora sostenida del mercado laboral en ese período.
 
