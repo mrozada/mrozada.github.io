@@ -31,6 +31,64 @@ Una réplica metodológica del Índice de Salarios (IS) del sector privado no re
 
 ---
 
+## Salarios informales en Argentina: ¿Recuperación real o ilusión estadística?
+
+Desde el cuarto trimestre de 2023, el Índice de Salarios del INDEC muestra una
+pronunciada recuperación del salario del sector privado no registrado. Un argumento
+que circuló con fuerza en el debate público atribuye esa recuperación al cambio
+metodológico que el INDEC introdujo en el cuestionario de la EPH en ese mismo
+trimestre, y no a una mejora real en los ingresos de los trabajadores informales.
+Este documento evalúa esa hipótesis de manera sistemática utilizando microdatos de
+la EPH (Bases Comparables, 2T2016–3T2025) y concluye que **la recuperación es real**.
+
+---
+
+![Índice de Salarios real por sector](/assets/images/graf_IS_real.png)
+
+*Índice de Salarios INDEC deflactado por IPC NG. Base noviembre 2023 = 100.
+La serie del privado no registrado se deflacta por el IPC del período que representa
+(publicación mes M → período M−5 → IPC de M−5). Fuente: INDEC. Elaboración: UTDT.*
+
+---
+
+## Hallazgos principales
+
+* El cambio de cuestionario de la EPH en 4T2023 **no modifica la variable p21**
+  (ingreso de la ocupación principal) — la única variable a partir de la cual se
+  mide el salario informal. Las nuevas preguntas clasifican el tipo de empleador
+  pero no alteran lo que el trabajador declara como ingreso.
+
+* Un **análisis de series de tiempo interrumpidas** sobre la variable efectivamente
+  modificada (desagregación de ingresos por subsidios) muestra que los 7 trimestres
+  post-intervención se encuentran dentro del intervalo de confianza proyectado por
+  la tendencia previa. No hay evidencia de mejora en la captación donde sí hubo
+  cambio metodológico.
+
+* Una **descomposición contable** demuestra que el efecto de composición del cambio
+  de definición opera en dirección contraria a la que requeriría el argumento crítico:
+  el subgrupo más estricto de informales (los que trabajan en empresas del sector
+  informal) representa el 10% del universo sin DJ y tiene ingresos sistemáticamente
+  **más bajos** que el promedio — el cambio de cuestionario subestima la recuperación,
+  no la sobreestima.
+
+* La recuperación del salario real de los asalariados sin registro fue de
+  aproximadamente **28 puntos del índice** desde el piso del 1T2024 hasta el 3T2025,
+  resultado **robusto** a la definición de informalidad utilizada, a la unidad de
+  medida (mensual u horaria) y consistente con el IS INDEC una vez corregido el
+  rezago de cinco meses de esa publicación.
+
+* Los asalariados sin registro en empresas del **sector informal** tuvieron una caída
+  más profunda y una recuperación más lenta que los del **sector formal**, revelando
+  heterogeneidad relevante para el diseño de políticas laborales.
+
+---
+
+## Documento
+
+* [Salarios informales en Argentina: ¿Recuperación real o ilusión estadística? (PDF)](/assets/pdf/reporte_salarios_informales_v310326.pdf)
+
+---
+
 ## Ingreso Disponible
 
 El ingreso total familiar (ITF) que releva la EPH no refleja el ingreso que los hogares tienen disponible para gastar libremente. Una parte del ingreso está comprometida en gastos recurrentes e ineludibles: alquiler, energía, comunicaciones, transporte y salud. Esta serie mide el **ingreso disponible (YD)** descontando esos compromisos, para Argentina entre el primer trimestre de 2017 y el tercer trimestre de 2025.
