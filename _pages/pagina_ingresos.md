@@ -5,6 +5,67 @@ header:
   image: /assets/images/header-git5.png
 ---
 
+## Salario real del sector público formal: ¿el +5,8% es estadísticamente distinguible de cero?
+
+Los microdatos de la EPH-INDEC del 4T2025 muestran que el salario medio real
+del sector público formal habría subido +5,8% real entre 3T-2023 y 4T-2025.
+Sin embargo, el intervalo de confianza al 95% para esa estimación —construido
+mediante bootstrap estratificado por región con 1.000 replicaciones— va desde
+−1,1% hasta +13,3% e incluye al cero. El crecimiento puntual no es
+estadísticamente distinguible de cero. Aún tomando el +5,8% como estimador
+puntual, el análisis empírico muestra que esa cifra se compone de cuatro
+factores que no representan un aumento generalizado al empleado público
+formal típico.
+
+---
+
+![Trayectoria del salario real del público formal con intervalos de confianza al 95%](https://mrozada.github.io/assets/images/grafico_ic95.png)
+
+*Trayectoria del salario medio real del público formal en EPH con intervalo de
+confianza al 95% por bootstrap estratificado por región. El rectángulo rojo en el
+extremo derecho marca la zona de superposición entre los intervalos de 3T-2025 y
+4T-2025. Base 3T-2023 = 100.*
+
+---
+
+## Hallazgos principales
+
+* El intervalo de confianza al 95% del salario real en 4T-2025 va desde el
+  índice **98,9** hasta el **113,3** (base 3T-2023 = 100). El intervalo
+  **incluye al 100 y se solapa con el del 3T-2025**: estadísticamente, no se
+  puede rechazar al 5% que el salario real promedio en 4T-2025 sea igual al
+  de 3T-2025 ni al de 3T-2023.
+* El **salto de +8 puntos del último trimestre se modera sustancialmente**
+  con medidas robustas: la media trimada al 5% sin ponderar muestra apenas
+  +1,9 puntos. En el panel intra-individuo (mismas personas en 3T-25 y 4T-25),
+  **4 personas explican el 100%** del salto de la media ponderada del panel.
+  Las cinco personas con mayor contribución al salto pertenecen al aglomerado
+  Gran Buenos Aires y mayoritariamente a Administración pública.
+* **Más de la mitad del crecimiento anual proviene de composición** del panel
+  rotativo de la EPH. Entre 4T-24 y 4T-25, la variación cross-section del
+  salario real es +12,4%, pero la variación intra-individuo (mismas personas
+  en ambos trimestres) es de solo +4,3%. La rotación 2-2-2 introduce en el
+  último trimestre entrantes con una cola alta sustancialmente superior a la
+  de los salientes.
+* La **heterogeneidad por rama y ocupación es muy fuerte**. Mientras Bancos
+  públicos (+33,9%), Funcionarios y dirección (+20,8%) y personal
+  Administrativo (+13,5%) muestran crecimientos reales sustanciales,
+  Investigación científica (−20,7%), Fuerzas Armadas y Gendarmería (−23,0%),
+  Docentes (−3,5%) y Policía (−0,5%) perdieron en términos reales.
+* La hipótesis de que el aguinaldo de diciembre explica el salto del último
+  trimestre **fue descartada empíricamente**: la EPH capta el SAC casi
+  enteramente en los trimestres 1 y 3 de cada año, no en los trimestres 2 y 4.
+  En el panel del público formal de 4T-2025, solamente 1 de 1.062 personas
+  reporta haber cobrado aguinaldo en los tres meses anteriores a la entrevista.
+
+---
+
+## Documento
+
+* [Reporte de resultados (PDF)](https://mrozada.github.io/assets/pdf/Salario_publico_eph_final.pdf)
+
+---
+
 ## Índice de Salarios del Sector Privado No Registrado
 
 Una réplica metodológica del Índice de Salarios (IS) del sector privado no registrado que publica INDEC, construida desde los microdatos de la EPH siguiendo la Metodológica N°16/2002. El trabajo tiene tres objetivos: traducir las variaciones porcentuales en magnitudes monetarias absolutas por grupo ocupacional, validar la construcción del IS INDEC mediante reproducción independiente, e investigar la estabilidad del índice frente a la estructura muestral de la EPH.
