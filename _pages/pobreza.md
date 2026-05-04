@@ -13,12 +13,6 @@ header:
 
 ***Para leer el informe completo haga click [aqui](/assets/pdf/Reporte_pobreza_q4_2025_corregido.pdf).***
 
-***Resultados del tercer trimestre de 2025***
-
-![***Resultados del tercer trimestre de 2025***](/assets/images/resultadosq325.png)
-
-***Para leer el informe completo haga click [aqui](/assets/pdf/reporte_pobreza_q3_2025_final.pdf).***
-
 ***Informes Anteriores***
 
 [Informe 2025 Q3](/assets/pdf/reporte_pobreza_q3_2025_final.pdf)
