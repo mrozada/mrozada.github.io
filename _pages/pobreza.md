@@ -7,6 +7,12 @@ header:
 
 ## NUEVA MEDICION DE LA INDIGENCIA Y LA POBREZA BASADA EN LA ENGHo 2017-18
 
+***Resultados del cuarto trimestre de 2025***
+
+![***Resultados del cuarto trimestre de 2025***](/assets/images/imagen%20reporte%20Q4.png)
+
+***Para leer el informe completo haga click [aqui](/assets/pdf/Reporte_pobreza_q4_2025_corregido.pdf).***
+
 ***Resultados del tercer trimestre de 2025***
 
 ![***Resultados del tercer trimestre de 2025***](/assets/images/resultadosq325.png)
@@ -14,6 +20,8 @@ header:
 ***Para leer el informe completo haga click [aqui](/assets/pdf/reporte_pobreza_q3_2025_final.pdf).***
 
 ***Informes Anteriores***
+
+[Informe 2025 Q3](/assets/pdf/reporte_pobreza_q3_2025_final.pdf)
 
 [Informe 2025 Q2](/assets/pdf/reporte_pobreza_q2_2025.pdf)
 
@@ -27,7 +35,7 @@ header:
 
 ## EVOLUCION TRIMESTRAL DE LA POBREZA ENGHo 2017-18
 
-![Evolucion trimestral de la pobreza](/assets/images/grafico_pobreza_utdt_vs_indec.png)
+![Evolucion trimestral de la pobreza](/assets/images/grafico_pobreza_utdt_vs_indec_hastaQ425.png)
 
 ***Para conocer acerca de la metodología Taller 13 para la medición de la pobreza haga click [aqui](/assets/pdf/taller13.pdf).***
 
