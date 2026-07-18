@@ -5,13 +5,13 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-## RESULTADOS MAYO 2026
+## RESULTADOS JUNIO 2026
 
-**El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 2.6 por ciento en mayo, luego de haber aumentado un 2.5 por ciento en abril.**
+**El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 2.7 por ciento en junio, luego de haber aumentado un 2.6 por ciento en mayo.**
 
-En mayo los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.5 puntos porcentuales menor que sin estacionalidad, 2.1 por ciento versus 2.6 por ciento. Esta diferencia de 0.5 puntos porcentuales en la inflación oficial de mayo se explica fundamentalmente por el comportamiento de la división Alimentos y bebidas no alcohólicas donde los factores estacionales hicieron que la medición oficial fuera 1.3 puntos porcentuales más baja (Figura 2 del informe). Durante los últimos 12 meses, el índice aumentó un 33.2 por ciento antes del ajuste estacional (datos oficiales de INDEC). <br>
+En junio los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.8 puntos porcentuales menor que sin estacionalidad, 1.9 por ciento versus 2.7 por ciento. Esta diferencia de 0.8 puntos porcentuales en la inflación oficial de junio se explica fundamentalmente por el comportamiento de la división Prendas de vestir y calzado donde los factores estacionales hicieron que la medición oficial fuera 2.2 puntos porcentuales más baja (Figura 2 del informe). Durante los últimos 12 meses, el índice aumentó un 33.5 por ciento antes del ajuste estacional (datos oficiales de INDEC). <br>
 
-En mayo, la tasa de inflación mensual que enfrentaron los hogares de menores ingresos fue de 2.84 por ciento mientras que para los hogares del 20 por ciento de mayores ingresos la inflación fue de 2.46 por ciento. Comparando contra el mismo mes del año anterior fue de 33.14 por ciento para el 20 por ciento de menores ingresos y de 33.33 por ciento para los hogares de mayores ingresos (Cuadro 3 del informe).<br>
+En junio, la tasa de inflación mensual que enfrentaron los hogares de menores ingresos fue de 2.74 por ciento mientras que para los hogares del 20 por ciento de mayores ingresos la inflación fue de 2.57 por ciento. Comparando contra el mismo mes del año anterior fue de 33.74 por ciento para el 20 por ciento de menores ingresos y de 33.50 por ciento para los hogares de mayores ingresos (Cuadro 3 del informe).<br>
 
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/IPCse/).***
@@ -23,6 +23,8 @@ En mayo, la tasa de inflación mensual que enfrentaron los hogares de menores in
 
 
 ***Links a informes en PDF***
+
+[Junio 2026](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202026-06%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
 [Mayo 2026](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202026-05%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
