@@ -5,11 +5,11 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-## RESULTADOS JUNIO 2026
+## RESULTADOS JULIO 2026
 
-**El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 2.1 por ciento en Junio, luego de haber aumentado un 2.3 por ciento en Mayo.**
+**El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 2.4 por ciento en Julio, luego de haber aumentado un 2.1 por ciento en Junio.**
 
-En Junio los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.2 puntos porcentuales menor que sin estacionalidad, 1.9 por ciento versus 2.1 por ciento. Esta diferencia de 0.2 puntos porcentuales en la inflación oficial de Junio se explica fundamentalmente por el comportamiento de la división Prendas de vestir y calzado donde los factores estacionales hicieron que la medición oficial fuera 1.5 puntos porcentuales más baja (Figura 2 del informe). Durante los últimos 12 meses, el índice aumentó un 33.5 por ciento antes del ajuste estacional (datos oficiales de INDEC). <br>
+En Julio los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.3 puntos porcentuales menor que sin estacionalidad, 2.1 por ciento versus 2.4 por ciento. Esta diferencia de 0.3 puntos porcentuales en la inflación oficial de Julio se explica fundamentalmente por el comportamiento de la división Prendas de vestir y calzado donde los factores estacionales hicieron que la medición oficial fuera 2.6 puntos porcentuales más baja (Figura 2 del informe). Durante los últimos 12 meses, el índice aumentó un 33.8 por ciento antes del ajuste estacional (datos oficiales de INDEC). <br>
 
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/IPCse/).***
@@ -21,6 +21,8 @@ En Junio los factores estacionales contribuyeron a que la medición oficial de l
 
 
 ***Links a informes en PDF***
+
+[Julio 2026](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202026-07%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
 [Junio 2026 (Actualizado)](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202026-06%20Actualizado%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
