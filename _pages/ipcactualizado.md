@@ -5,19 +5,21 @@ header:
   image: /assets/images/newheader-gitipcl.jpg
 ---
 
-## RESULTADOS JUNIO 2026
+## RESULTADOS JULIO 2026
 
-El nivel general del Índice de Precios al Consumidor Actualizado (IPCA) aumentó un 2 por ciento en junio, luego de haber aumentado un 2.2 por ciento en mayo impulsado por el aumento de precios de las divisiones de Vivienda, agua, electricidad, gas y otros combustibles y Recreación y cultura, que explicaron alrededor del 25.8 y 17.2 por ciento de la inflación respectivamente (Cuadros 1 y 2). En comparación, la tasa de inflación mensual oficial publicada por el INDEC fue de 1.9 por ciento (Figura 1).
+El nivel general del Índice de Precios al Consumidor Actualizado (IPCA) aumentó un 2.2 por ciento en julio, luego de haber aumentado un 2 por ciento en junio impulsado por el aumento de precios de las divisiones de Alimentos y bebidas no alcohólicas y Recreación y cultura, que explicaron alrededor del 19.6 y 19.4 por ciento de la inflación respectivamente (Cuadros 1 y 2). En comparación, la tasa de inflación mensual oficial publicada por el INDEC fue de 2.1 por ciento (Figura 1).
 
-Durante los últimos 12 meses, la inflación interanual fue de 34.1 por ciento, comparado con el valor de 33.5 por ciento en los datos oficiales (Cuadro 1). 
+Durante los últimos 12 meses, la inflación interanual fue de 34.5 por ciento, comparado con el valor de 33.8 por ciento en los datos oficiales (Cuadro 1). 
 
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/inflacionlatente/).***
 
-![Series de tiempo IPC-Actualizado e IPC-INDEC](/assets/images/LinePlotStaticjunio2026.png)
+![Series de tiempo IPC-Actualizado e IPC-INDEC](/assets/images/TimeSeriesTasaMensualIPCA.png)
 
 
 ***Links a informes en PDF***
+
+[Julio 2026](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/inflacion_actualizada_julio2026.pdf)
 
 [Junio 2026](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/inflacion_actualizada_junio2026.pdf)
 
