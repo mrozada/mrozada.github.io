@@ -5,11 +5,11 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-## RESULTADOS AGOSTO 2026
+## RESULTADOS SEPTIEMBRE 2026
 
-**El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 1.8 por ciento en Agosto, luego de haber aumentado un 2.4 por ciento en Julio.**
+**El Índice de Precios al Consumidor nacional sin estacionalidad (IPCse) aumentó un 1.8 por ciento en Septiembre, luego de haber aumentado un 1.8 por ciento en Agosto.**
 
-En Agosto los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.1 puntos porcentuales menor que sin estacionalidad, 1.7 por ciento versus 1.8 por ciento. Esta diferencia de 0.1 puntos porcentuales en la inflación oficial de Agosto se explica fundamentalmente por el comportamiento de la división Prendas de vestir y calzado donde los factores estacionales hicieron que la medición oficial fuera 1.5 puntos porcentuales más baja (Figura 2 del informe). Durante los últimos 12 meses, el índice aumentó un 33.5 por ciento antes del ajuste estacional (datos oficiales de INDEC). <br>
+En Septiembre los factores estacionales contribuyeron a que la medición oficial de la inflación fuera 0.1 puntos porcentuales mayor que sin estacionalidad, 1.9 por ciento versus 1.8 por ciento. Esta diferencia de 0.1 puntos porcentuales en la inflación oficial de Septiembre se explica fundamentalmente por el comportamiento de la división Prendas de vestir y calzado donde los factores estacionales hicieron que la medición oficial fuera 2.4 puntos porcentuales más alta (Figura 2 del informe). Durante los últimos 12 meses, el índice aumentó un 33.4 por ciento antes del ajuste estacional (datos oficiales de INDEC). <br>
 
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/IPCse/).***
@@ -21,6 +21,8 @@ En Agosto los factores estacionales contribuyeron a que la medición oficial de 
 
 
 ***Links a informes en PDF***
+
+[Septiembre 2026](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202026-09%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
 [Agosto 2026](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/IPCse%20-%202026-08%20-%20INDICE%20DE%20PRECIOS%20AL%20CONSUMIDOR%20SIN%20ESTACIONALIDAD.pdf)
 
