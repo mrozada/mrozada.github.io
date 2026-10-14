@@ -5,19 +5,21 @@ header:
   image: /assets/images/newheader-gitipcl.jpg
 ---
 
-## RESULTADOS AGOSTO 2026
+## RESULTADOS SEPTIEMBRE 2026
 
-El nivel general del Índice de Precios al Consumidor Actualizado (IPCA) aumentó un 1.7 por ciento en agosto, luego de haber aumentado un 2.2 por ciento en julio impulsado por el aumento de precios de las divisiones de Vivienda, agua, electricidad, gas y otros combustibles y Alimentos y bebidas no alcohólicas, que explicaron alrededor del 26.2 y 21.1 por ciento de la inflación respectivamente (Cuadros 1 y 2). En comparación, la tasa de inflación mensual oficial publicada por el INDEC fue de 1.7 por ciento (Figura 1).
+El nivel general del Índice de Precios al Consumidor Actualizado (IPCA) aumentó un 2.0 por ciento en septiembre, luego de haber aumentado un 1.7 por ciento en agosto impulsado por el aumento de precios de las divisiones de Vivienda, agua, electricidad, gas y otros combustibles y Alimentos y bebidas no alcohólicas, que explicaron alrededor del 24.9 y 21.2 por ciento de la inflación respectivamente (Cuadros 1 y 2). En comparación, la tasa de inflación mensual oficial publicada por el INDEC fue de 1.9 por ciento (Figura 1).
 
-Durante los últimos 12 meses, la inflación interanual fue de 34.3 por ciento, comparado con el valor de 33.5 por ciento en los datos oficiales (Cuadro 1). 
+Durante los últimos 12 meses, la inflación interanual fue de 34.2 por ciento, comparado con el valor de 33.4 por ciento en los datos oficiales (Cuadro 1). 
 
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/inflacionlatente/).***
 
-![Series de tiempo IPC-Actualizado e IPC-INDEC](/assets/images/TimeSeriesTasaMensualIPCA826.png)
+![Series de tiempo IPC-Actualizado e IPC-INDEC](/assets/images/TimeSeriesTasaMensualIPCA926.png)
 
 
 ***Links a informes en PDF***
+
+[Septiembre 2026](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/inflacion_actualizada_septiembre2026.pdf)
 
 [Agosto 2026](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/inflacion_actualizada_agosto2026.pdf)
 
