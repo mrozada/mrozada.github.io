@@ -5,15 +5,17 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-## RESULTADOS AGOSTO 2026
+## RESULTADOS SEPTIEMBRE 2026
 
-Los hogares de muy bajos ingresos, decil 1, enfrentaron en agosto una inflación mensual de 1.67 por ciento comparada con una inflación mensual de 1.66 por ciento para los hogares del 10 por ciento de mayores ingresos (Cuadro 2 del informe).
+Los hogares de muy bajos ingresos, decil 1, enfrentaron en septiembre una inflación mensual de 1.91 por ciento comparada con una inflación mensual de 1.89 por ciento para los hogares del 10 por ciento de mayores ingresos (Cuadro 2 del informe).
 
-Como se observa, la brecha de inflación por deciles de ingreso ya no es negativa en casi todas las regiones: es negativa en GBA, Cuyo y Patagonia, siendo más pronunciada en esta última, donde los hogares de muy bajos ingresos enfrentaron una inflación 0.48 puntos porcentuales más baja que los hogares de muy altos ingresos. En cambio, la brecha es positiva en Pampeana (0.05 puntos porcentuales), Noroeste (0.39 puntos porcentuales) y, más marcadamente, en Noreste, donde se situó en 3.39 puntos porcentuales (Figura 11 del informe).
+Como se observa, al igual que en el mes anterior, la brecha de inflación por deciles de ingreso es negativa en GBA, Cuyo y Patagonia, siendo más pronunciada en Cuyo, donde los hogares de muy bajos ingresos enfrentaron una inflación 0.32 puntos porcentuales más baja que los hogares de muy altos ingresos. En cambio, la brecha es positiva en Pampeana (0.28 puntos porcentuales), Noroeste (0.62 puntos porcentuales) y, más marcadamente, en Noreste, donde se situó en 3.34 puntos porcentuales (Figura 10 del informe).
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/brechas/).***
 
 ***Links a informes en PDF***
+
+[Septiembre 2026](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/BRECHAS%20DE%20INFLACION%20-%202026-09.pdf)
 
 [Agosto 2026](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/BRECHAS%20DE%20INFLACION%20-%202026-08.pdf)
 
