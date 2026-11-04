@@ -17,7 +17,7 @@ header:
 
 [Informe 2026 Q1](/assets/pdf/Reporte_pobreza_q1_2026.pdf)
 
-[Informe 2025 Q4](/assets/pdf/Reporte_pobreza_q4_2025_corregido.pdf) (nota: la serie fue revisada con posterioridad a este informe; la tasa de pobreza actualizada para el Q4 2025 es 37.8%)
+[Informe 2025 Q4](/assets/pdf/Reporte_pobreza_q4_2025_revisado.pdf)
 
 [Informe 2025 Q3](/assets/pdf/reporte_pobreza_q3_2025_final.pdf)
 
