@@ -152,44 +152,49 @@ La serie del privado no registrado se deflacta por el IPC del período que repre
 
 ## Ingreso Disponible
 
-El ingreso total familiar (ITF) que releva la EPH no refleja el ingreso que los hogares tienen disponible para gastar libremente. Una parte del ingreso está comprometida en gastos recurrentes e ineludibles: alquiler, energía, comunicaciones, transporte y salud. Esta serie mide el **ingreso disponible (YD)** descontando esos compromisos, para Argentina entre el primer trimestre de 2017 y el cuarto trimestre de 2025.
+El ingreso total familiar (ITF) que releva la EPH no refleja el ingreso que los hogares
+tienen disponible para gastar libremente. Una parte del ingreso está comprometida en gastos
+recurrentes e ineludibles: alquiler, energía, comunicaciones, transporte y salud. Esta serie
+mide el **ingreso disponible (YD)** descontando esos compromisos, para Argentina entre el
+primer trimestre de 2017 y el segundo trimestre de 2026.
 
----
-
-![Ingreso disponible vs. ITF nacional 2017-2025](/assets/images/fig_web_yd_itf.png)
-
----
+![Ingreso disponible vs. ITF nacional 2017-2026](/assets/images/fig_web_yd_itf.png)
 
 ## Hallazgos principales
 
-- El YD real cayó un **39%** entre 2017 y el primer trimestre de 2024,
-  acumulando tres episodios de contracción: la crisis cambiaria de 2018,
-  la pandemia de 2020 y el shock de diciembre de 2023.
+*Cifras al 2T2026. Las comparaciones entre períodos se calculan sobre ventanas de cuatro
+trimestres consecutivos, para evitar el efecto del aguinaldo.*
 
-- La recuperación posterior fue la más rápida de los tres ciclos: en
-  **ocho trimestres** el YD creció un 33,7% y superó en un **5,1%** el
-  nivel pre-pandemia (4T2019). Al cierre de la serie (4T2025), el YD se
-  ubica un 18,9% por debajo del nivel de inicio (1T2017).
-
-- La carga de gastos fijos es estructuralmente **regresiva**: el quintil
-  más pobre destina más del doble de su ingreso a gastos fijos que el
-  quintil más rico, brecha que se amplía durante los shocks.
-
-- Los **inquilinos** exhiben un YD sistemáticamente inferior al de los
-  propietarios del mismo quintil, con una brecha del 40,7% al cierre de
-  la serie — por encima del mínimo de 35,1% registrado en 1T2024 pero
-  todavía por debajo del nivel pre-pandemia.
-
-- El impacto del shock de 2023 fue **heterogéneo regionalmente**: el
-  Noreste acumuló la caída más profunda (−22%), GBA la menor (−8%).
-  Al cierre de la serie todas las regiones permanecen por debajo de su
-  nivel de 2017.
-
----
+- El YD real cayó un **30,4%** entre el inicio de la serie y su piso, el promedio de 2024,
+  en tres episodios de contracción: la crisis cambiaria de 2018, la pandemia de 2020 y el
+  shock de diciembre de 2023.
+- La recuperación posterior **no tiene paralelo** en la serie: en seis trimestres desde el
+  piso el YD creció un **20,9%**, frente al 5,1% de la recuperación pospandémica al mismo
+  horizonte. Al cierre, el YD se ubica un **15,8%** por debajo del nivel de 2017.
+- Medido contra 2019, el YD apenas supera su nivel de referencia (+1,0%) mientras el ITF
+  queda por debajo (−1,1%): **toda la mejora del margen proviene de la caída del gasto
+  fijo**, y dentro de él dos tercios corresponden al componente energético.
+- El ciclo del shock de 2023 tuvo un resultado **regresivo**: la caída fue más profunda
+  cuanto más bajo el quintil (−19,5% en el primero frente a −4,9% en el quinto) y la
+  recuperación no revirtió ese ordenamiento. Al cierre, el primer quintil está
+  prácticamente en su nivel de 2023 y el quinto, un 11,5% por encima.
+- La carga de gastos fijos es **regresiva** en todo el período: el quintil más pobre destina
+  alrededor de una vez y media la fracción de ingreso que compromete el más rico. Esa brecha
+  siguió al precio relativo de la energía: se duplicó entre 2017 y 2019, se comprimió durante
+  los años de subsidios y volvió a ampliarse con la dessubsidización.
+- Los **inquilinos** comprometen en gastos fijos casi el doble de su ingreso que los
+  propietarios y, sin embargo, disponen de un ingreso por adulto equivalente prácticamente
+  igual: los propietarios los superan en apenas **1,1%**, frente al 19,0% que sugiere la
+  comparación por hogar, diferencia atribuible casi por completo al menor tamaño de los
+  hogares inquilinos. Su posición relativa se movió con el precio del alquiler: mejoró hasta
+  el primer semestre de 2024 y se revirtió desde entonces.
+- La caída fue **heterogénea entre regiones**: el Noreste acumula la contracción más
+  profunda (−27,6%) y GBA la más contenida (−11,8%), por canales distintos — en Patagonia
+  cayó el ingreso, en el Noreste subió el gasto fijo. Todas las regiones permanecen por
+  debajo de su nivel de 2017.
 
 ## Documentos
-
-- [Reporte de resultados (PDF)](/assets/pdf/reporte_yd_evolucion_v4.pdf)
+- [Reporte de resultados (PDF)](/assets/pdf/reporte_yd_evolucion_v7.pdf)
 - [Nota metodológica (PDF)](/assets/pdf/metodologia_ingreso_disponible.pdf)
 - [Resumen de la metodología (PDF)](/assets/pdf/presentacion_yd_utdt_v2.pdf)
-- [Reportes Anteriores (PDF)](/assets/pdf/reporte_yd_evolucion_v3.pdf)
+- [Reportes anteriores (PDF)](/assets/pdf/reporte_yd_evolucion_v6.pdf)
