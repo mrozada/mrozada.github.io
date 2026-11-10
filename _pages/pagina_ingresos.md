@@ -195,6 +195,6 @@ trimestres consecutivos, para evitar el efecto del aguinaldo.*
 
 ## Documentos
 - [Reporte de resultados (PDF)](/assets/pdf/reporte_yd_evolucion_v7.pdf)
-- [Nota metodológica (PDF)](/assets/pdf/metodologia_ingreso_disponible.pdf) (versión de febrero de 2026; no incorpora los cambios metodológicos de las ediciones posteriores)
+- [Nota metodológica (PDF)](/assets/pdf/metodologia_ingreso_disponible.pdf)
 - [Resumen de la metodología (PDF)](/assets/pdf/presentacion_yd_utdt_v2.pdf)
 - [Reportes anteriores (PDF)](/assets/pdf/reporte_yd_evolucion_v6.pdf)
