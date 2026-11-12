@@ -9,7 +9,7 @@ header:
 
 ***Resultados del segundo trimestre de 2026***
 
-![***Resultados del segundo trimestre de 2026***](/assets/images/imagen_reporte_Q2_2026.png)
+![***Resultados del segundo trimestre de 2026***](/assets/images/imagen_reporte_Q2_2026_v2.png)
 
 ***Para leer el informe completo haga click [aqui](/assets/pdf/Reporte_pobreza_q2_2026.pdf).***
 
