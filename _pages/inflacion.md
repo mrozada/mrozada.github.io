@@ -5,15 +5,17 @@ header:
   image: /assets/images/header-git4.jpg
 ---
 
-## RESULTADOS SEPTIEMBRE 2026
+## RESULTADOS OCTUBRE 2026
 
-Los hogares de muy bajos ingresos, decil 1, enfrentaron en septiembre una inflación mensual de 1.91 por ciento comparada con una inflación mensual de 1.89 por ciento para los hogares del 10 por ciento de mayores ingresos (Cuadro 2 del informe).
+Los hogares de muy bajos ingresos, decil 1, enfrentaron en octubre una inflación mensual de 2.11 por ciento comparada con una inflación mensual de 2.17 por ciento para los hogares del 10 por ciento de mayores ingresos (Cuadro 2 del informe).
 
-Como se observa, al igual que en el mes anterior, la brecha de inflación por deciles de ingreso es negativa en GBA, Cuyo y Patagonia, siendo más pronunciada en Cuyo, donde los hogares de muy bajos ingresos enfrentaron una inflación 0.32 puntos porcentuales más baja que los hogares de muy altos ingresos. En cambio, la brecha es positiva en Pampeana (0.28 puntos porcentuales), Noroeste (0.62 puntos porcentuales) y, más marcadamente, en Noreste, donde se situó en 3.34 puntos porcentuales (Figura 10 del informe).
+Como se observa, a diferencia del mes anterior, cuando también era negativa en Patagonia, la brecha de inflación por deciles de ingreso es negativa solo en GBA y Cuyo, siendo más pronunciada en Cuyo, donde los hogares de muy bajos ingresos enfrentaron una inflación 0.33 puntos porcentuales más baja que los hogares de muy altos ingresos. En cambio, la brecha es positiva en Patagonia (0.03 puntos porcentuales), Pampeana (0.27 puntos porcentuales), Noroeste (0.63 puntos porcentuales) y, más marcadamente, en Noreste, donde se situó en 3.71 puntos porcentuales (Figura 10 del informe).
 
 ***Para leer el informe completo, haga click [aquí](https://mrozada.github.io/brechas/).***
 
 ***Links a informes en PDF***
+
+[Octubre 2026](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/BRECHAS%20DE%20INFLACION%20-%202026-10.pdf)
 
 [Septiembre 2026](https://github.com/mrozada/mrozada.github.io/blob/master/assets/pdf/BRECHAS%20DE%20INFLACION%20-%202026-09.pdf)
 
